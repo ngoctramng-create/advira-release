@@ -1,5 +1,20 @@
 [
   {
+    "id": "20261111225924",
+    "time": "2026-11-11T22:59:24",
+    "title": "🔥 Trend siêu nổ hôm nay",
+    "trend": [
+      {
+        "type": "video",
+        "title": "Flannel Dinosaur Nap Blanket🦖",
+        "keyword": "Flannel Dinosaur Nap Blanket🦖",
+        "link": "https://pawndify.com/funnel/news-cloud-soft-dinosaur-blanket-m-1",
+        "price": "$31.99"
+      }
+    ],
+    "sig": "wh0m8t9sOB3183u7zTOkidTF-XLsBvsnwVa88jLdvFhRJSt9Vgznkapiqu86ExyhEqEc0wdvKOxdCEcUTHrYCw"
+  },
+  {
     "id": "20261110232940",
     "time": "2026-11-10T23:29:40",
     "title": "🔥 Trend siêu nổ hôm nay",
@@ -13,6 +28,22 @@
       }
     ],
     "sig": "sZ0acLSIobqqkP071IqqqoImJZycNamwJ_ujePXBsuznH6NZSkUTevnLvhjWXqzSvLS5YTNvWAaSEdZteEwYBA"
+  },
+  {
+    "id": "20261111225924",
+    "time": "2026-11-11T22:59:24",
+    "title": "🔥 Trend siêu nổ hôm nay",
+    "trend": [
+      {
+        "type": "video",
+        "title": "Flannel Dinosaur Nap Blanket🦖",
+        "keyword": "Flannel Dinosaur Nap Blanket🦖",
+        "link": "https://pawndify.com/funnel/news-cloud-soft-dinosaur-blanket-m-1",
+        "price": "$31.99"
+      }
+    ],
+    "sig": "DogqrqkESXZyIyreYu0F1bgaW5j0YfgH7KF33CYBIKRGddBERM8k_GC1K99tU0FEzBYQ-vu0FHC1DISESzmeDw",
+    "ed": "Mini"
   },
   {
     "id": "20261110232940",
@@ -29,5 +60,37 @@
     ],
     "sig": "5IlAu2_3Gu7PMCWbpMTLVcKFsj9_-dDb11BgW5-C79L0vqqLFuDnSRfdPkeUtwgbMSMty7gJa_qdImMDjqGdBA",
     "ed": "Mini"
+  },
+  {
+    "id": "20261111225924",
+    "time": "2026-11-11T22:59:24",
+    "title": "🔥 Trend siêu nổ hôm nay",
+    "trend": [
+      {
+        "type": "video",
+        "title": "Flannel Dinosaur Nap Blanket🦖",
+        "keyword": "Flannel Dinosaur Nap Blanket🦖",
+        "link": "https://pawndify.com/funnel/news-cloud-soft-dinosaur-blanket-m-1",
+        "price": "$31.99"
+      }
+    ],
+    "sig": "tjoCpdX3DWCuNR5C0WwK9ULeJyhfx-12ytaCt3l7fo6FBQnA6Cd2x0U6WmmOWLbmrT1yWH7P-XMMa-gv7lt6AQ",
+    "ed": "API"
+  },
+  {
+    "id": "20261110232940",
+    "time": "2026-11-10T23:29:40",
+    "title": "🔥 Trend siêu nổ hôm nay",
+    "trend": [
+      {
+        "type": "video",
+        "title": "Flannel Dinosaur Nap Blanket🦖",
+        "keyword": "Flannel Dinosaur Nap Blanket🦖",
+        "link": "https://pawndify.com/funnel/news-cloud-soft-dinosaur-blanket-m-1",
+        "price": "$31.99"
+      }
+    ],
+    "sig": "g0viUCyr5vbPSJqH2cWxhaoKle7RG04_frKqZM_rA_nsvmnDUGszmOnGMUrpigiFM0coK8mo0dKcZYkg7214BA",
+    "ed": "API"
   }
 ]
