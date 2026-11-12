@@ -1,7 +1,7 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-12T23:44:49",
+  "time": "2026-11-12T23:45:03",
   "docs": [
    {
     "id": "ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
@@ -108,11 +108,11 @@
     ]
    }
   ],
-  "sig": "36ukpYtIFQPLGpuCIKne_P1_fvMIAio_2hK4upMBtLcHQHApTdmStHG5f5JIL1RWkAS8BVoiJ97L9bl4kbVQCw"
+  "sig": "IVyeZTFCWr60bsXZLB_tOKV0QXyOZBZGvzs6n0PsdsKd7qzxfgt2fc3ctojz_f7IstAPWWL0ews2qOHmuS_zDw"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-12T23:44:49",
+  "time": "2026-11-12T23:45:03",
   "docs": [
    {
     "id": "ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
@@ -219,11 +219,11 @@
     ]
    }
   ],
-  "sig": "Uj4Jx7VQKq8VjgosI3EAeyaPzpu0_L4erI6GTRN8lHpqsFsTiu076oY2_5Q_9h3tftOUGqkxw1v4cbEsUZorBQ"
+  "sig": "yzbfffY7BZiZtjCV-SkI2e0ZvLxcTdxtWOOHEvLJfjZI3oR2ZWq1RoGQO-ypJ0JCOJQs49RXhu5xrWrn9hgLAg"
  },
  {
   "ed": "API",
-  "time": "2026-11-12T23:44:49",
+  "time": "2026-11-12T23:45:03",
   "docs": [
    {
     "id": "ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
@@ -330,6 +330,6 @@
     ]
    }
   ],
-  "sig": "7DDTahQ0oeWDW_IxWcByUznb3FCnWYcAS5G9PX64t1zNqjt71lXTfgyBn6i6kDBCYbH6yzIAY5jlstXYBspWCQ"
+  "sig": "xbxupXbryg2DdHXgRdunOdfORO9RSuhU9Kun8KRnF1bio2K3O_EEPzu4w_6CLp390iwQd_WEEel5Auw2t6PqAA"
  }
 ]
