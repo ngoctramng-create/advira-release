@@ -1,7 +1,7 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-12T15:09:35",
+  "time": "2026-11-12T15:09:42",
   "docs": [
    {
     "id": "ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
@@ -95,11 +95,11 @@
     ]
    }
   ],
-  "sig": "GoGmtYrI9ZVRHQacr_M9vOTYOvTqaVUy7OIFM5Ix0vX25x0ax2_FhLC7SpQLtKx3IcBxzytd_ka3hArtMHEbBQ"
+  "sig": "CwxsIQXoPwiXgKuUipn1q25UGWzEf30vvBq9lskHl--9bln4gXbOaUNxS3Th8xbiB_Y1evzzJvN6dw3zl66JDQ"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-12T15:09:35",
+  "time": "2026-11-12T15:09:42",
   "docs": [
    {
     "id": "ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
@@ -193,11 +193,11 @@
     ]
    }
   ],
-  "sig": "0RCIVKFz6p01XAQTs2UU9qpikSEoflQmmFH6zvVEBjtmaT9NS___7isU2VtuoPvpkdzFOj3sFZJRNdKfqpawAQ"
+  "sig": "XqF9f6ZvLmAEr83edD1_1lTpl28mNin8Y8Xozd2dCgUf_J4nTHVelO9GpyyZFsFfPuGN367Z1bbXSODU4cB7BQ"
  },
  {
   "ed": "API",
-  "time": "2026-11-12T15:09:35",
+  "time": "2026-11-12T15:09:42",
   "docs": [
    {
     "id": "ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
@@ -291,6 +291,6 @@
     ]
    }
   ],
-  "sig": "dlFBO_SX17ux36fGOpo1KzVhOj_jYrtTw95J0JL1GPYHfS59bHhbxHQYAQIV1n4xKHHm8Tzxz-_xHRDo-Qt9Dw"
+  "sig": "l3Kl0dhfeGf3xEbuAjitW6PsyaxfGP8nNU4WC1luvRuDridBl45QB8tcesTnCEr0VTNDiRZjombndi1uGb9_AQ"
  }
 ]
