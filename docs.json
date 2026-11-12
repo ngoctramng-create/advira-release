@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-12T15:11:17",
+  "time": "2026-11-12T23:44:49",
   "docs": [
+   {
+    "id": "ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
+    "title": "Cong xuong POD Set Page hang loat 12 11 2026",
+    "desc": "BIG UDATE: ADVIRA-PRO-2026.1112.2305 ADVIRA-API-2026.1112.2325 ADVIRA-MINI-2026.1112.2324",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
+    "size": 1011397,
+    "date": "2026-11-12T23:44:45",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
     "title": "Cach lay API key token 11 2026",
@@ -95,12 +108,25 @@
     ]
    }
   ],
-  "sig": "hj9Amhp5KiFCs9NKCX3xpjErtslIk2IG2AYy-nkQeOH-3S72lAbS81I0oHCYb9NvSKbYsrp00DB57k5WgDYeBA"
+  "sig": "36ukpYtIFQPLGpuCIKne_P1_fvMIAio_2hK4upMBtLcHQHApTdmStHG5f5JIL1RWkAS8BVoiJ97L9bl4kbVQCw"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-12T15:11:17",
+  "time": "2026-11-12T23:44:49",
   "docs": [
+   {
+    "id": "ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
+    "title": "Cong xuong POD Set Page hang loat 12 11 2026",
+    "desc": "BIG UDATE: ADVIRA-PRO-2026.1112.2305 ADVIRA-API-2026.1112.2325 ADVIRA-MINI-2026.1112.2324",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
+    "size": 1011397,
+    "date": "2026-11-12T23:44:45",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
     "title": "Cach lay API key token 11 2026",
@@ -193,12 +219,25 @@
     ]
    }
   ],
-  "sig": "M4gs0C4wcBkiYks3Z_PB6sujLU620x8LvC1SZWdF2wlz_eSV7PY78eA0fpM1MOPWTOx8Z6DEgUFb7-EnFR8pBw"
+  "sig": "Uj4Jx7VQKq8VjgosI3EAeyaPzpu0_L4erI6GTRN8lHpqsFsTiu076oY2_5Q_9h3tftOUGqkxw1v4cbEsUZorBQ"
  },
  {
   "ed": "API",
-  "time": "2026-11-12T15:11:17",
+  "time": "2026-11-12T23:44:49",
   "docs": [
+   {
+    "id": "ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
+    "title": "Cong xuong POD Set Page hang loat 12 11 2026",
+    "desc": "BIG UDATE: ADVIRA-PRO-2026.1112.2305 ADVIRA-API-2026.1112.2325 ADVIRA-MINI-2026.1112.2324",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
+    "size": 1011397,
+    "date": "2026-11-12T23:44:45",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
     "title": "Cach lay API key token 11 2026",
@@ -291,6 +330,6 @@
     ]
    }
   ],
-  "sig": "TxD2zycn72cP7m062qZY-4FIYrH4BeHM-Empc_epCKkyCxSCasDx6KcXLW7rYg81aBwduDxX-mfyZfRmrZBEDA"
+  "sig": "7DDTahQ0oeWDW_IxWcByUznb3FCnWYcAS5G9PX64t1zNqjt71lXTfgyBn6i6kDBCYbH6yzIAY5jlstXYBspWCQ"
  }
 ]
