@@ -1,5 +1,13 @@
 [
   {
+    "id": "20261112094755",
+    "time": "2026-11-12T09:47:55",
+    "title": "📚 Tài liệu mới: PRO Huong dan chay 100 API",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
+    "sig": "ls3ZvpI7vFCmQciaxSGpzH_OODAMkuCvzcex-6dWItxBn38UX2-OLNvqSUDFR7L3qUFLgDMM4n6DrEFASVp_DA"
+  },
+  {
     "id": "20261112094726",
     "time": "2026-11-12T09:47:26",
     "title": "📚 Tài liệu mới: Ebook Con duong kiem tien",
@@ -75,6 +83,15 @@
       }
     ],
     "sig": "sZ0acLSIobqqkP071IqqqoImJZycNamwJ_ujePXBsuznH6NZSkUTevnLvhjWXqzSvLS5YTNvWAaSEdZteEwYBA"
+  },
+  {
+    "id": "20261112094755",
+    "time": "2026-11-12T09:47:55",
+    "title": "📚 Tài liệu mới: PRO Huong dan chay 100 API",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
+    "sig": "QEYrhHWTwNrGocQXuF_7FwG_xSUbEl0W5Om5yZ5E1B4Z6MSGZGNNCRIqgWXfjT8P3jpUhd3doedNqT9L74c4Bg",
+    "ed": "Mini"
   },
   {
     "id": "20261112094726",
@@ -159,6 +176,15 @@
     ],
     "sig": "5IlAu2_3Gu7PMCWbpMTLVcKFsj9_-dDb11BgW5-C79L0vqqLFuDnSRfdPkeUtwgbMSMty7gJa_qdImMDjqGdBA",
     "ed": "Mini"
+  },
+  {
+    "id": "20261112094755",
+    "time": "2026-11-12T09:47:55",
+    "title": "📚 Tài liệu mới: PRO Huong dan chay 100 API",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
+    "sig": "pWnii1auoX__JPGNSqzKE8sV5QEFYTrIOgkNUt7Ha_1jt5f9kho9hvEHYb2Ee8yY1w4Lg7eI3OG5IkEzCktwDw",
+    "ed": "API"
   },
   {
     "id": "20261112094726",
