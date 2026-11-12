@@ -1,5 +1,13 @@
 [
   {
+    "id": "20261112072251",
+    "time": "2026-11-12T07:22:51",
+    "title": "📚 Tài liệu mới: Huong dan ban cap nhat 11/11 2026",
+    "body": "Ae lưu ý: từ giờ tài liệu sẽ đẩy tự động cho ae qua bot telegram nha. Thân gửi",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-ban-cap-nhat-11-2026.pdf",
+    "sig": "xyibG4LOJEAoadTQrWvuYGOjFrMcgYnb0O5kdOZI91obo9dp9H7lZOWwhk7LbsvweNaZlEJuBMzuMpOBmX67AA"
+  },
+  {
     "id": "20261111230926",
     "time": "2026-11-11T23:09:26",
     "title": "🔥 Trend siêu nổ hôm nay",
@@ -43,6 +51,15 @@
       }
     ],
     "sig": "sZ0acLSIobqqkP071IqqqoImJZycNamwJ_ujePXBsuznH6NZSkUTevnLvhjWXqzSvLS5YTNvWAaSEdZteEwYBA"
+  },
+  {
+    "id": "20261112072251",
+    "time": "2026-11-12T07:22:51",
+    "title": "📚 Tài liệu mới: Huong dan ban cap nhat 11/11 2026",
+    "body": "Ae lưu ý: từ giờ tài liệu sẽ đẩy tự động cho ae qua bot telegram nha. Thân gửi",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-ban-cap-nhat-11-2026.pdf",
+    "sig": "EnqD75-SXPizoQ7YpYrakqnP3PyFdI68L4IX9gvQVeNnIzViyKGY4pw8ejvIZcfyGCnz5io4QhV9lqiUJ1FdBg",
+    "ed": "Mini"
   },
   {
     "id": "20261111230926",
@@ -91,6 +108,15 @@
     ],
     "sig": "5IlAu2_3Gu7PMCWbpMTLVcKFsj9_-dDb11BgW5-C79L0vqqLFuDnSRfdPkeUtwgbMSMty7gJa_qdImMDjqGdBA",
     "ed": "Mini"
+  },
+  {
+    "id": "20261112072251",
+    "time": "2026-11-12T07:22:51",
+    "title": "📚 Tài liệu mới: Huong dan ban cap nhat 11/11 2026",
+    "body": "Ae lưu ý: từ giờ tài liệu sẽ đẩy tự động cho ae qua bot telegram nha. Thân gửi",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-ban-cap-nhat-11-2026.pdf",
+    "sig": "_NQTlHXzVDe8m5013PokM_lnTHBFL_yntQPdGUFrQFr_eudIYDtHLhbpSKfvsVg84RpaRU5N9HYVjoQV316_BQ",
+    "ed": "API"
   },
   {
     "id": "20261111230926",
