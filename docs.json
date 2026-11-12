@@ -1,7 +1,7 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-12T08:28:55",
+  "time": "2026-11-12T08:29:02",
   "docs": [
    {
     "id": "ADVIRA-Bang-lenh-Bot-11-2026.pdf",
@@ -9,7 +9,7 @@
     "desc": "",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-lenh-Bot-11-2026.pdf",
     "size": 754732,
-    "date": "2026-11-12T08:28:51",
+    "date": "2026-11-12T08:29:02",
     "eds": [
      "PRO",
      "MINI",
@@ -43,11 +43,11 @@
     ]
    }
   ],
-  "sig": "sAuXvi7p2sTZDyPluu6RJUnsYFAIXH5d4rh8IZ71a9tID06uCyv0resrK9TSKXRHlc8ABF7_PRKp9Keftpk6Cg"
+  "sig": "5EUKKDg-g5KpE7R9DJyIkZs9mpucuoZe8XVNgC6W6XrwEfs9o0UsQW0ltZLIGmKPlyYi_bEwQ1QVDxIh9T42Aw"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-12T08:28:55",
+  "time": "2026-11-12T08:29:02",
   "docs": [
    {
     "id": "ADVIRA-Bang-lenh-Bot-11-2026.pdf",
@@ -55,7 +55,7 @@
     "desc": "",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-lenh-Bot-11-2026.pdf",
     "size": 754732,
-    "date": "2026-11-12T08:28:51",
+    "date": "2026-11-12T08:29:02",
     "eds": [
      "PRO",
      "MINI",
@@ -89,11 +89,11 @@
     ]
    }
   ],
-  "sig": "QcJ8yOjht4SYKhvDXGE4-ENbmm3GQzYy2VGK7XUKdwump3nKS3D82fIUKx9JPL5ty24tLZC7Vp0i85KAssarBg"
+  "sig": "tsDsuNJ0mzL1pK8sool1g1MiMC--HWNuSndenOXptXFmphRf73d2aKpFyiSDwtDNwmp41jBIps8cdFI_pVSjAA"
  },
  {
   "ed": "API",
-  "time": "2026-11-12T08:28:55",
+  "time": "2026-11-12T08:29:02",
   "docs": [
    {
     "id": "ADVIRA-Bang-lenh-Bot-11-2026.pdf",
@@ -101,7 +101,7 @@
     "desc": "",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-lenh-Bot-11-2026.pdf",
     "size": 754732,
-    "date": "2026-11-12T08:28:51",
+    "date": "2026-11-12T08:29:02",
     "eds": [
      "PRO",
      "MINI",
@@ -135,6 +135,6 @@
     ]
    }
   ],
-  "sig": "r1fjOiFD1PTGbLwYsw48Ny5xvJvDOtncBtsV17PdeLO39-gp_AWoMNuxZWukYzhCIp2fuZlm6eb8EYeBhaALCA"
+  "sig": "mIxm9ZUJh5dfWkC-4OghD7ogzr0SF-ptEcx721Ebhlt6r9yGPNVg9-LA_rNt1mHdXvPY4iABNQS54npZsmK9DQ"
  }
 ]
