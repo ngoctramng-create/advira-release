@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-12T09:47:23",
+  "time": "2026-11-12T09:47:52",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
+    "title": "PRO Huong dan chay 100 API",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
+    "size": 773463,
+    "date": "2026-11-12T09:47:49",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
     "title": "Ebook Con duong kiem tien",
@@ -56,12 +69,25 @@
     ]
    }
   ],
-  "sig": "QCpkujXs8ExUX-z9ooc_xbEw4tz42v3zXykY4KdYEMk4JaM53gjrV9VAJeuv0TcdovKGTECX8GTceIvecnuxBA"
+  "sig": "-lNpRryGgQN7joCOZR_zffbfYqCqWW2ZeyrDJNhsjWy-9H4OHeNtQbBz6M41HoGyXEUQNa9cB4cm10xbW_O6AQ"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-12T09:47:23",
+  "time": "2026-11-12T09:47:52",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
+    "title": "PRO Huong dan chay 100 API",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
+    "size": 773463,
+    "date": "2026-11-12T09:47:49",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
     "title": "Ebook Con duong kiem tien",
@@ -115,12 +141,25 @@
     ]
    }
   ],
-  "sig": "oHV6NES9SqpR8KPsGlgOWeuXq0p4W3-m3OmKBk3puY3orVGqjfZQea78S9BdV5waQ-ai7WrKQ2PkA6yor6qcDQ"
+  "sig": "0BttpocQGsrgWkBd-z4abExAC7O85Qk0DOlljxOUcI5K4CtZqsyrTEzLU27jszDuf_XRW8WHBvhrH1TJIU25CQ"
  },
  {
   "ed": "API",
-  "time": "2026-11-12T09:47:23",
+  "time": "2026-11-12T09:47:52",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
+    "title": "PRO Huong dan chay 100 API",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
+    "size": 773463,
+    "date": "2026-11-12T09:47:49",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
     "title": "Ebook Con duong kiem tien",
@@ -174,6 +213,6 @@
     ]
    }
   ],
-  "sig": "pBXnGuztOjyPVux3ues6nbbpCPj4rHHw4dKGzklSt_iBzuBLb-LJLfOaeFIzOHCKFvOAOS-JTdHNC4jAHKKKDw"
+  "sig": "cnt5U0oNTs8HYVROo6_Xe7Qdy8m_tjWtZ7x9PmzfBMShthvaAN6q25oUVqI-LnN4mJU2k_lpNOqw2SFuP2wlCw"
  }
 ]
