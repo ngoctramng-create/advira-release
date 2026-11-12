@@ -1,5 +1,13 @@
 [
   {
+    "id": "20261112094726",
+    "time": "2026-11-12T09:47:26",
+    "title": "📚 Tài liệu mới: Ebook Con duong kiem tien",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
+    "sig": "C-y1kjI6QRP-kqEIM3t9bRUkafQmPiQc6E9Vuyr-yrK2X56nolkkMdw-wXKSCgn49jpVK5H_nsitzTQyA6r3CA"
+  },
+  {
     "id": "20261112082904",
     "time": "2026-11-12T08:29:04",
     "title": "📚 Tài liệu mới: Bang lenh Bot 11 2026",
@@ -67,6 +75,15 @@
       }
     ],
     "sig": "sZ0acLSIobqqkP071IqqqoImJZycNamwJ_ujePXBsuznH6NZSkUTevnLvhjWXqzSvLS5YTNvWAaSEdZteEwYBA"
+  },
+  {
+    "id": "20261112094726",
+    "time": "2026-11-12T09:47:26",
+    "title": "📚 Tài liệu mới: Ebook Con duong kiem tien",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
+    "sig": "BeUiMIkxz7tnOSl59s5LbblQSvPLI5vk6ZGOqtwMnRiT4nBHP2apiKiO_8tK7rouOi4Pe_8tR6lA6ZBmn56bAg",
+    "ed": "Mini"
   },
   {
     "id": "20261112082904",
@@ -142,6 +159,15 @@
     ],
     "sig": "5IlAu2_3Gu7PMCWbpMTLVcKFsj9_-dDb11BgW5-C79L0vqqLFuDnSRfdPkeUtwgbMSMty7gJa_qdImMDjqGdBA",
     "ed": "Mini"
+  },
+  {
+    "id": "20261112094726",
+    "time": "2026-11-12T09:47:26",
+    "title": "📚 Tài liệu mới: Ebook Con duong kiem tien",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
+    "sig": "lgc59F65vWNs-2WArfBjmsr8nPiCedvaRzJDERPwHc3bATcBkQqGMfb7L2C5JhmT_UdfHklj_ejfRFQiyph2Ag",
+    "ed": "API"
   },
   {
     "id": "20261112082904",
