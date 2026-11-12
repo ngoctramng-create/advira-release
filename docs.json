@@ -1,8 +1,19 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-12T23:47:09",
+  "time": "2026-11-12T23:48:24",
   "docs": [
+   {
+    "id": "ADVIRA-API-Huong-dan-cai-dat.pdf",
+    "title": "API Huong dan cai dat",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-API-Huong-dan-cai-dat.pdf",
+    "size": 882436,
+    "date": "2026-11-12T23:48:21",
+    "eds": [
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Huong-dan-su-dung.pdf",
     "title": "PRO Huong dan su dung",
@@ -121,12 +132,23 @@
     ]
    }
   ],
-  "sig": "0EJSp6cMFiwMVVO3dEl2HHzJbGsnRBqzCWOO8vi00StTfeF6bjObcFSmHgr9ANb-nwyiz61jTQkDGYyL-JWiCQ"
+  "sig": "vgO0AckKi30lKg80E_GH6pAf6a_--Nx7zpIr1SMiOLzDWhERx0GfiJnp4JevqZxtz2QtfxoBu513wDDw_lMPBA"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-12T23:47:09",
+  "time": "2026-11-12T23:48:24",
   "docs": [
+   {
+    "id": "ADVIRA-API-Huong-dan-cai-dat.pdf",
+    "title": "API Huong dan cai dat",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-API-Huong-dan-cai-dat.pdf",
+    "size": 882436,
+    "date": "2026-11-12T23:48:21",
+    "eds": [
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Huong-dan-su-dung.pdf",
     "title": "PRO Huong dan su dung",
@@ -245,12 +267,23 @@
     ]
    }
   ],
-  "sig": "xRZHQPZRU5S1jA2b-fb0gqburnwFAvoKoOg5aQNhDL_XNZ5bkk_NW46q8kX9wRJLkXHFKvNqAieutxZDOgsrAA"
+  "sig": "c3r5Crvi32UvLDm-Y_67x_NfL_X9wHLapj9Vlv8A9u_yNBV1B03hMyGDDjQU-RPxgEHeZJo4a5qDvrCCAgl1CQ"
  },
  {
   "ed": "API",
-  "time": "2026-11-12T23:47:09",
+  "time": "2026-11-12T23:48:24",
   "docs": [
+   {
+    "id": "ADVIRA-API-Huong-dan-cai-dat.pdf",
+    "title": "API Huong dan cai dat",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-API-Huong-dan-cai-dat.pdf",
+    "size": 882436,
+    "date": "2026-11-12T23:48:21",
+    "eds": [
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Huong-dan-su-dung.pdf",
     "title": "PRO Huong dan su dung",
@@ -369,6 +402,6 @@
     ]
    }
   ],
-  "sig": "CmUh9m13DRtqLYU8g4KzFhE_xK8E2zMWOz-xYqMJNx1mjB7nlTfvFsiAjbcWYxsnk71ROxeA_lCwCTZgdz9xBA"
+  "sig": "AHkd1H-6-VYTXYPw47tSFmBB3M0SW8eSFOFbs5wI06XAbF0trwwcazRu2D9f4u_hK4Dyve0cJiRvK3sAYEAJBA"
  }
 ]
