@@ -1,7 +1,7 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-12T09:48:20",
+  "time": "2026-11-12T09:48:37",
   "docs": [
    {
     "id": "ADVIRA-Phu-Page-so-luong-lon.pdf",
@@ -82,11 +82,11 @@
     ]
    }
   ],
-  "sig": "rOLJulQJ5nmtKbbt1qrZgbPxijKLYIcjfDmrVjfSVyc8U1tZYEfhOzqKnZSxCArBZyElX7o2FowF1_DbOIGcCg"
+  "sig": "bUMGOkqhiZivN2triYcFKFUOV-G7fz8OLjjGQAsRQZvhNJDNlPpXFnOhi-nYCki7bMYwMDBQPYReg4dYfQ6zAw"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-12T09:48:20",
+  "time": "2026-11-12T09:48:37",
   "docs": [
    {
     "id": "ADVIRA-Phu-Page-so-luong-lon.pdf",
@@ -167,11 +167,11 @@
     ]
    }
   ],
-  "sig": "byaOAMlWAQfpp9ZPxU5ex9EfqtpukDIVwc7u_GIs0qy5fuvE3jnrP8dDTHPUhOAsyqH-W0HcPR4mMia47Cw1CA"
+  "sig": "kLkX2YoeyBq4-2ZAieRymidMhk-IccxFNuwB8xS61abscuVryaz5lC0fP7uOWTevCH0itIQsmNH21jOcnusIDA"
  },
  {
   "ed": "API",
-  "time": "2026-11-12T09:48:20",
+  "time": "2026-11-12T09:48:37",
   "docs": [
    {
     "id": "ADVIRA-Phu-Page-so-luong-lon.pdf",
@@ -252,6 +252,6 @@
     ]
    }
   ],
-  "sig": "1qcnI--lHeDJQs3ktBnZcQx0WN8_yN1zsNMELNtmj9lTE5WsBY5pXkkJQthSjUKMPk5Hy0RpXkAI9g_a9wx1CQ"
+  "sig": "NPNhPNVlSl6dG579-olk1txL3ye4iIOlp12EvrMSt6Aux_wVfwOFPOVM0C1ta-pt7IlITyLNbiSIbOfdgsslBg"
  }
 ]
