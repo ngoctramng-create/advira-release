@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-12T23:45:03",
+  "time": "2026-11-12T23:47:09",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-su-dung.pdf",
+    "title": "PRO Huong dan su dung",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-su-dung.pdf",
+    "size": 664069,
+    "date": "2026-11-12T23:47:05",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
     "title": "Cong xuong POD Set Page hang loat 12 11 2026",
@@ -108,12 +121,25 @@
     ]
    }
   ],
-  "sig": "IVyeZTFCWr60bsXZLB_tOKV0QXyOZBZGvzs6n0PsdsKd7qzxfgt2fc3ctojz_f7IstAPWWL0ews2qOHmuS_zDw"
+  "sig": "0EJSp6cMFiwMVVO3dEl2HHzJbGsnRBqzCWOO8vi00StTfeF6bjObcFSmHgr9ANb-nwyiz61jTQkDGYyL-JWiCQ"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-12T23:45:03",
+  "time": "2026-11-12T23:47:09",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-su-dung.pdf",
+    "title": "PRO Huong dan su dung",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-su-dung.pdf",
+    "size": 664069,
+    "date": "2026-11-12T23:47:05",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
     "title": "Cong xuong POD Set Page hang loat 12 11 2026",
@@ -219,12 +245,25 @@
     ]
    }
   ],
-  "sig": "yzbfffY7BZiZtjCV-SkI2e0ZvLxcTdxtWOOHEvLJfjZI3oR2ZWq1RoGQO-ypJ0JCOJQs49RXhu5xrWrn9hgLAg"
+  "sig": "xRZHQPZRU5S1jA2b-fb0gqburnwFAvoKoOg5aQNhDL_XNZ5bkk_NW46q8kX9wRJLkXHFKvNqAieutxZDOgsrAA"
  },
  {
   "ed": "API",
-  "time": "2026-11-12T23:45:03",
+  "time": "2026-11-12T23:47:09",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-su-dung.pdf",
+    "title": "PRO Huong dan su dung",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-su-dung.pdf",
+    "size": 664069,
+    "date": "2026-11-12T23:47:05",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
     "title": "Cong xuong POD Set Page hang loat 12 11 2026",
@@ -330,6 +369,6 @@
     ]
    }
   ],
-  "sig": "xbxupXbryg2DdHXgRdunOdfORO9RSuhU9Kun8KRnF1bio2K3O_EEPzu4w_6CLp390iwQd_WEEel5Auw2t6PqAA"
+  "sig": "CmUh9m13DRtqLYU8g4KzFhE_xK8E2zMWOz-xYqMJNx1mjB7nlTfvFsiAjbcWYxsnk71ROxeA_lCwCTZgdz9xBA"
  }
 ]
