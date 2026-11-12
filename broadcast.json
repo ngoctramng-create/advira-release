@@ -1,5 +1,13 @@
 [
   {
+    "id": "20261112234711",
+    "time": "2026-11-12T23:47:11",
+    "title": "📚 Tài liệu mới: PRO Huong dan su dung",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-su-dung.pdf",
+    "sig": "8S9va9DSK7Plva8A8H5_md42vP2F47hZ_48ZeQcnj7O7CyyZH844Ku03ocjroU6RRDt6l6KX7-c_yX3O_XpuBg"
+  },
+  {
     "id": "20261112234451",
     "time": "2026-11-12T23:44:51",
     "title": "📚 Tài liệu mới: Cong xuong POD Set Page hang loat 12 11 2026",
@@ -79,19 +87,13 @@
     "sig": "59KkO2GF0eTPYPN72rfx03I-qW5PxJoYUTKAA6CfXjmL0268AnQZ1GudYoASBlZKJ7aEgY-AJDXyp2qOn89HDg"
   },
   {
-    "id": "20261111225924",
-    "time": "2026-11-11T22:59:24",
-    "title": "🔥 Trend siêu nổ hôm nay",
-    "trend": [
-      {
-        "type": "video",
-        "title": "Flannel Dinosaur Nap Blanket🦖",
-        "keyword": "Flannel Dinosaur Nap Blanket🦖",
-        "link": "https://pawndify.com/funnel/news-cloud-soft-dinosaur-blanket-m-1",
-        "price": "$31.99"
-      }
-    ],
-    "sig": "wh0m8t9sOB3183u7zTOkidTF-XLsBvsnwVa88jLdvFhRJSt9Vgznkapiqu86ExyhEqEc0wdvKOxdCEcUTHrYCw"
+    "id": "20261112234711",
+    "time": "2026-11-12T23:47:11",
+    "title": "📚 Tài liệu mới: PRO Huong dan su dung",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-su-dung.pdf",
+    "sig": "gfkNgmOl1YnYTebI3Z-zgs9Fwd6SRbQkN_wuYD9m_ZVGJLOux1X-Hs2yllV8R7WCC_VEF7vohUOqHofUlZ1iBw",
+    "ed": "Mini"
   },
   {
     "id": "20261112234451",
@@ -182,20 +184,13 @@
     "ed": "Mini"
   },
   {
-    "id": "20261111225924",
-    "time": "2026-11-11T22:59:24",
-    "title": "🔥 Trend siêu nổ hôm nay",
-    "trend": [
-      {
-        "type": "video",
-        "title": "Flannel Dinosaur Nap Blanket🦖",
-        "keyword": "Flannel Dinosaur Nap Blanket🦖",
-        "link": "https://pawndify.com/funnel/news-cloud-soft-dinosaur-blanket-m-1",
-        "price": "$31.99"
-      }
-    ],
-    "sig": "DogqrqkESXZyIyreYu0F1bgaW5j0YfgH7KF33CYBIKRGddBERM8k_GC1K99tU0FEzBYQ-vu0FHC1DISESzmeDw",
-    "ed": "Mini"
+    "id": "20261112234711",
+    "time": "2026-11-12T23:47:11",
+    "title": "📚 Tài liệu mới: PRO Huong dan su dung",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-su-dung.pdf",
+    "sig": "m8VkyIHJ_1CVj2hh9QYh0VVT8Rau4sScq12ZXQv1XD66UYGOQ6SCGnkJHKRuS9vLmy_Y-5cNEFgEOyysuaBgDw",
+    "ed": "API"
   },
   {
     "id": "20261112234451",
@@ -283,22 +278,6 @@
       }
     ],
     "sig": "-y6tgiB5RTinoWrjDTZWqxparZfm8Db5cl42pjrkC3zlDIkw7z9bY0w3MGEBat55332pSJnI9txF0AgetL3LDg",
-    "ed": "API"
-  },
-  {
-    "id": "20261111225924",
-    "time": "2026-11-11T22:59:24",
-    "title": "🔥 Trend siêu nổ hôm nay",
-    "trend": [
-      {
-        "type": "video",
-        "title": "Flannel Dinosaur Nap Blanket🦖",
-        "keyword": "Flannel Dinosaur Nap Blanket🦖",
-        "link": "https://pawndify.com/funnel/news-cloud-soft-dinosaur-blanket-m-1",
-        "price": "$31.99"
-      }
-    ],
-    "sig": "tjoCpdX3DWCuNR5C0WwK9ULeJyhfx-12ytaCt3l7fo6FBQnA6Cd2x0U6WmmOWLbmrT1yWH7P-XMMa-gv7lt6AQ",
     "ed": "API"
   }
 ]
