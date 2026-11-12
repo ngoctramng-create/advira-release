@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-12T09:47:52",
+  "time": "2026-11-12T09:48:20",
   "docs": [
+   {
+    "id": "ADVIRA-Phu-Page-so-luong-lon.pdf",
+    "title": "Phu Page so luong lon",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Phu-Page-so-luong-lon.pdf",
+    "size": 848363,
+    "date": "2026-11-12T09:48:17",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
     "title": "PRO Huong dan chay 100 API",
@@ -69,12 +82,25 @@
     ]
    }
   ],
-  "sig": "-lNpRryGgQN7joCOZR_zffbfYqCqWW2ZeyrDJNhsjWy-9H4OHeNtQbBz6M41HoGyXEUQNa9cB4cm10xbW_O6AQ"
+  "sig": "rOLJulQJ5nmtKbbt1qrZgbPxijKLYIcjfDmrVjfSVyc8U1tZYEfhOzqKnZSxCArBZyElX7o2FowF1_DbOIGcCg"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-12T09:47:52",
+  "time": "2026-11-12T09:48:20",
   "docs": [
+   {
+    "id": "ADVIRA-Phu-Page-so-luong-lon.pdf",
+    "title": "Phu Page so luong lon",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Phu-Page-so-luong-lon.pdf",
+    "size": 848363,
+    "date": "2026-11-12T09:48:17",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
     "title": "PRO Huong dan chay 100 API",
@@ -141,12 +167,25 @@
     ]
    }
   ],
-  "sig": "0BttpocQGsrgWkBd-z4abExAC7O85Qk0DOlljxOUcI5K4CtZqsyrTEzLU27jszDuf_XRW8WHBvhrH1TJIU25CQ"
+  "sig": "byaOAMlWAQfpp9ZPxU5ex9EfqtpukDIVwc7u_GIs0qy5fuvE3jnrP8dDTHPUhOAsyqH-W0HcPR4mMia47Cw1CA"
  },
  {
   "ed": "API",
-  "time": "2026-11-12T09:47:52",
+  "time": "2026-11-12T09:48:20",
   "docs": [
+   {
+    "id": "ADVIRA-Phu-Page-so-luong-lon.pdf",
+    "title": "Phu Page so luong lon",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Phu-Page-so-luong-lon.pdf",
+    "size": 848363,
+    "date": "2026-11-12T09:48:17",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
     "title": "PRO Huong dan chay 100 API",
@@ -213,6 +252,6 @@
     ]
    }
   ],
-  "sig": "cnt5U0oNTs8HYVROo6_Xe7Qdy8m_tjWtZ7x9PmzfBMShthvaAN6q25oUVqI-LnN4mJU2k_lpNOqw2SFuP2wlCw"
+  "sig": "1qcnI--lHeDJQs3ktBnZcQx0WN8_yN1zsNMELNtmj9lTE5WsBY5pXkkJQthSjUKMPk5Hy0RpXkAI9g_a9wx1CQ"
  }
 ]
