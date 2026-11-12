@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-12T08:29:02",
+  "time": "2026-11-12T09:47:23",
   "docs": [
+   {
+    "id": "ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
+    "title": "Ebook Con duong kiem tien",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
+    "size": 1202843,
+    "date": "2026-11-12T09:47:20",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Bang-lenh-Bot-11-2026.pdf",
     "title": "Bang lenh Bot 11 2026",
@@ -43,12 +56,25 @@
     ]
    }
   ],
-  "sig": "5EUKKDg-g5KpE7R9DJyIkZs9mpucuoZe8XVNgC6W6XrwEfs9o0UsQW0ltZLIGmKPlyYi_bEwQ1QVDxIh9T42Aw"
+  "sig": "QCpkujXs8ExUX-z9ooc_xbEw4tz42v3zXykY4KdYEMk4JaM53gjrV9VAJeuv0TcdovKGTECX8GTceIvecnuxBA"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-12T08:29:02",
+  "time": "2026-11-12T09:47:23",
   "docs": [
+   {
+    "id": "ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
+    "title": "Ebook Con duong kiem tien",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
+    "size": 1202843,
+    "date": "2026-11-12T09:47:20",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Bang-lenh-Bot-11-2026.pdf",
     "title": "Bang lenh Bot 11 2026",
@@ -89,12 +115,25 @@
     ]
    }
   ],
-  "sig": "tsDsuNJ0mzL1pK8sool1g1MiMC--HWNuSndenOXptXFmphRf73d2aKpFyiSDwtDNwmp41jBIps8cdFI_pVSjAA"
+  "sig": "oHV6NES9SqpR8KPsGlgOWeuXq0p4W3-m3OmKBk3puY3orVGqjfZQea78S9BdV5waQ-ai7WrKQ2PkA6yor6qcDQ"
  },
  {
   "ed": "API",
-  "time": "2026-11-12T08:29:02",
+  "time": "2026-11-12T09:47:23",
   "docs": [
+   {
+    "id": "ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
+    "title": "Ebook Con duong kiem tien",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
+    "size": 1202843,
+    "date": "2026-11-12T09:47:20",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Bang-lenh-Bot-11-2026.pdf",
     "title": "Bang lenh Bot 11 2026",
@@ -135,6 +174,6 @@
     ]
    }
   ],
-  "sig": "mIxm9ZUJh5dfWkC-4OghD7ogzr0SF-ptEcx721Ebhlt6r9yGPNVg9-LA_rNt1mHdXvPY4iABNQS54npZsmK9DQ"
+  "sig": "pBXnGuztOjyPVux3ues6nbbpCPj4rHHw4dKGzklSt_iBzuBLb-LJLfOaeFIzOHCKFvOAOS-JTdHNC4jAHKKKDw"
  }
 ]
