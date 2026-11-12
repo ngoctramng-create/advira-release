@@ -1,5 +1,13 @@
 [
   {
+    "id": "20261112234827",
+    "time": "2026-11-12T23:48:27",
+    "title": "📚 Tài liệu mới: API Huong dan cai dat",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-API-Huong-dan-cai-dat.pdf",
+    "sig": "gN54lnVh5FlfD2zmIzfcyTobDIsPz3BtL-e5v1bNGgYWuPRl5upurWGKzVBjQXdH0FydKz4ZCZHbum-N1CvrCw"
+  },
+  {
     "id": "20261112234711",
     "time": "2026-11-12T23:47:11",
     "title": "📚 Tài liệu mới: PRO Huong dan su dung",
@@ -72,19 +80,13 @@
     "sig": "xyibG4LOJEAoadTQrWvuYGOjFrMcgYnb0O5kdOZI91obo9dp9H7lZOWwhk7LbsvweNaZlEJuBMzuMpOBmX67AA"
   },
   {
-    "id": "20261111230926",
-    "time": "2026-11-11T23:09:26",
-    "title": "🔥 Trend siêu nổ hôm nay",
-    "trend": [
-      {
-        "type": "product",
-        "title": "🐱 2027 Cat Art Calendar — 12 Masterpieces Reimagined With A Curious Feline Twist - 😻Buy",
-        "keyword": "🐱 2027 Cat Art Calendar — 12 Masterpieces Reimagi",
-        "link": "https://www.statisticsing.com/products/2027-famous-painting-cat-calendar-12-masterpieces-one-curious-cat",
-        "price": "$22.00"
-      }
-    ],
-    "sig": "59KkO2GF0eTPYPN72rfx03I-qW5PxJoYUTKAA6CfXjmL0268AnQZ1GudYoASBlZKJ7aEgY-AJDXyp2qOn89HDg"
+    "id": "20261112234827",
+    "time": "2026-11-12T23:48:27",
+    "title": "📚 Tài liệu mới: API Huong dan cai dat",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-API-Huong-dan-cai-dat.pdf",
+    "sig": "-MPj7zhBc_yJF1gPypy3M8mxszOsd9wApqUJb5pgcG1o3tlRXrn6jEBLEhsIXQ9LROF-BiB0i7cUKHTFHEZdCw",
+    "ed": "Mini"
   },
   {
     "id": "20261112234711",
@@ -168,20 +170,13 @@
     "ed": "Mini"
   },
   {
-    "id": "20261111230926",
-    "time": "2026-11-11T23:09:26",
-    "title": "🔥 Trend siêu nổ hôm nay",
-    "trend": [
-      {
-        "type": "product",
-        "title": "🐱 2027 Cat Art Calendar — 12 Masterpieces Reimagined With A Curious Feline Twist - 😻Buy",
-        "keyword": "🐱 2027 Cat Art Calendar — 12 Masterpieces Reimagi",
-        "link": "https://www.statisticsing.com/products/2027-famous-painting-cat-calendar-12-masterpieces-one-curious-cat",
-        "price": "$22.00"
-      }
-    ],
-    "sig": "eJ0vZyh4cQnk3Cq_XV6ecQaFzAqLCyNs7R5n849zONCc09LrVZgl5f-MPCstiC1xAlqf_9vBAb0xc2Zu4y8TDw",
-    "ed": "Mini"
+    "id": "20261112234827",
+    "time": "2026-11-12T23:48:27",
+    "title": "📚 Tài liệu mới: API Huong dan cai dat",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-API-Huong-dan-cai-dat.pdf",
+    "sig": "ctfeRWC_21pnOkCP4oo5fPjrsBk5MWbJ_LZRIOWSoIAeEJplxhfNFIlB5t3Wru6r4XkiUPoJcXWqOnnBZKR2Bw",
+    "ed": "API"
   },
   {
     "id": "20261112234711",
@@ -262,22 +257,6 @@
     "body": "Ae lưu ý: từ giờ tài liệu sẽ đẩy tự động cho ae qua bot telegram nha. Thân gửi",
     "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-ban-cap-nhat-11-2026.pdf",
     "sig": "_NQTlHXzVDe8m5013PokM_lnTHBFL_yntQPdGUFrQFr_eudIYDtHLhbpSKfvsVg84RpaRU5N9HYVjoQV316_BQ",
-    "ed": "API"
-  },
-  {
-    "id": "20261111230926",
-    "time": "2026-11-11T23:09:26",
-    "title": "🔥 Trend siêu nổ hôm nay",
-    "trend": [
-      {
-        "type": "product",
-        "title": "🐱 2027 Cat Art Calendar — 12 Masterpieces Reimagined With A Curious Feline Twist - 😻Buy",
-        "keyword": "🐱 2027 Cat Art Calendar — 12 Masterpieces Reimagi",
-        "link": "https://www.statisticsing.com/products/2027-famous-painting-cat-calendar-12-masterpieces-one-curious-cat",
-        "price": "$22.00"
-      }
-    ],
-    "sig": "-y6tgiB5RTinoWrjDTZWqxparZfm8Db5cl42pjrkC3zlDIkw7z9bY0w3MGEBat55332pSJnI9txF0AgetL3LDg",
     "ed": "API"
   }
 ]
