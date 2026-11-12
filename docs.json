@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-12T09:48:37",
+  "time": "2026-11-12T15:09:35",
   "docs": [
+   {
+    "id": "ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
+    "title": "Cach lay API key token 11 2026",
+    "desc": "Cách lấy API, tài khoản sử dụng trong hệ thống ADVIRA",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
+    "size": 863149,
+    "date": "2026-11-12T15:09:31",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Phu-Page-so-luong-lon.pdf",
     "title": "Phu Page so luong lon",
@@ -82,12 +95,25 @@
     ]
    }
   ],
-  "sig": "bUMGOkqhiZivN2triYcFKFUOV-G7fz8OLjjGQAsRQZvhNJDNlPpXFnOhi-nYCki7bMYwMDBQPYReg4dYfQ6zAw"
+  "sig": "GoGmtYrI9ZVRHQacr_M9vOTYOvTqaVUy7OIFM5Ix0vX25x0ax2_FhLC7SpQLtKx3IcBxzytd_ka3hArtMHEbBQ"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-12T09:48:37",
+  "time": "2026-11-12T15:09:35",
   "docs": [
+   {
+    "id": "ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
+    "title": "Cach lay API key token 11 2026",
+    "desc": "Cách lấy API, tài khoản sử dụng trong hệ thống ADVIRA",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
+    "size": 863149,
+    "date": "2026-11-12T15:09:31",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Phu-Page-so-luong-lon.pdf",
     "title": "Phu Page so luong lon",
@@ -167,12 +193,25 @@
     ]
    }
   ],
-  "sig": "kLkX2YoeyBq4-2ZAieRymidMhk-IccxFNuwB8xS61abscuVryaz5lC0fP7uOWTevCH0itIQsmNH21jOcnusIDA"
+  "sig": "0RCIVKFz6p01XAQTs2UU9qpikSEoflQmmFH6zvVEBjtmaT9NS___7isU2VtuoPvpkdzFOj3sFZJRNdKfqpawAQ"
  },
  {
   "ed": "API",
-  "time": "2026-11-12T09:48:37",
+  "time": "2026-11-12T15:09:35",
   "docs": [
+   {
+    "id": "ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
+    "title": "Cach lay API key token 11 2026",
+    "desc": "Cách lấy API, tài khoản sử dụng trong hệ thống ADVIRA",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
+    "size": 863149,
+    "date": "2026-11-12T15:09:31",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Phu-Page-so-luong-lon.pdf",
     "title": "Phu Page so luong lon",
@@ -252,6 +291,6 @@
     ]
    }
   ],
-  "sig": "NPNhPNVlSl6dG579-olk1txL3ye4iIOlp12EvrMSt6Aux_wVfwOFPOVM0C1ta-pt7IlITyLNbiSIbOfdgsslBg"
+  "sig": "dlFBO_SX17ux36fGOpo1KzVhOj_jYrtTw95J0JL1GPYHfS59bHhbxHQYAQIV1n4xKHHm8Tzxz-_xHRDo-Qt9Dw"
  }
 ]
