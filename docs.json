@@ -1,8 +1,34 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-12T07:22:49",
+  "time": "2026-11-12T08:28:55",
   "docs": [
+   {
+    "id": "ADVIRA-Bang-lenh-Bot-11-2026.pdf",
+    "title": "Bang lenh Bot 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-lenh-Bot-11-2026.pdf",
+    "size": 754732,
+    "date": "2026-11-12T08:28:51",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
+   {
+    "id": "ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
+    "title": "Huong dan day du giao dien moi 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
+    "size": 1734441,
+    "date": "2026-11-12T08:28:47",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Huong-dan-ban-cap-nhat-11-2026.pdf",
     "title": "Huong dan ban cap nhat 11/11 2026",
@@ -17,12 +43,38 @@
     ]
    }
   ],
-  "sig": "fj25OPY7098LnT4TWUWJ-806xQ4uQS_knMtjNZgkZxtf9ghfGJbbJe6Y5mWzGwvcC5zLRixIUhlE5hBHegD8DQ"
+  "sig": "sAuXvi7p2sTZDyPluu6RJUnsYFAIXH5d4rh8IZ71a9tID06uCyv0resrK9TSKXRHlc8ABF7_PRKp9Keftpk6Cg"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-12T07:22:49",
+  "time": "2026-11-12T08:28:55",
   "docs": [
+   {
+    "id": "ADVIRA-Bang-lenh-Bot-11-2026.pdf",
+    "title": "Bang lenh Bot 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-lenh-Bot-11-2026.pdf",
+    "size": 754732,
+    "date": "2026-11-12T08:28:51",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
+   {
+    "id": "ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
+    "title": "Huong dan day du giao dien moi 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
+    "size": 1734441,
+    "date": "2026-11-12T08:28:47",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Huong-dan-ban-cap-nhat-11-2026.pdf",
     "title": "Huong dan ban cap nhat 11/11 2026",
@@ -37,12 +89,38 @@
     ]
    }
   ],
-  "sig": "pwg2P_42ZqGvxQY8V3Rgd_jZZEeW6SuVXo0T8V_7uLraQcc0JZ2PTahXauOeuY5IqaH2PxJCFQTx43ZKEU_lAg"
+  "sig": "QcJ8yOjht4SYKhvDXGE4-ENbmm3GQzYy2VGK7XUKdwump3nKS3D82fIUKx9JPL5ty24tLZC7Vp0i85KAssarBg"
  },
  {
   "ed": "API",
-  "time": "2026-11-12T07:22:49",
+  "time": "2026-11-12T08:28:55",
   "docs": [
+   {
+    "id": "ADVIRA-Bang-lenh-Bot-11-2026.pdf",
+    "title": "Bang lenh Bot 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-lenh-Bot-11-2026.pdf",
+    "size": 754732,
+    "date": "2026-11-12T08:28:51",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
+   {
+    "id": "ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
+    "title": "Huong dan day du giao dien moi 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
+    "size": 1734441,
+    "date": "2026-11-12T08:28:47",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Huong-dan-ban-cap-nhat-11-2026.pdf",
     "title": "Huong dan ban cap nhat 11/11 2026",
@@ -57,6 +135,6 @@
     ]
    }
   ],
-  "sig": "66ekkISDqJv5pKM9IV10l3s1rXbwj5bzNpEmyc_NZm56qOLh6b0PbZko0AmiA1itXrI71tXHKI_rFBaDn1dBBA"
+  "sig": "r1fjOiFD1PTGbLwYsw48Ny5xvJvDOtncBtsV17PdeLO39-gp_AWoMNuxZWukYzhCIp2fuZlm6eb8EYeBhaALCA"
  }
 ]
