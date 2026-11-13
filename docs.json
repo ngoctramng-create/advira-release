@@ -1,7 +1,7 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-13T09:17:44",
+  "time": "2026-11-13T15:55:15",
   "docs": [
    {
     "id": "ADVIRA-PRO-Huong-dan-web.pdf",
@@ -9,7 +9,7 @@
     "desc": "",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-web.pdf",
     "size": 602679,
-    "date": "2026-11-13T09:17:41",
+    "date": "2026-11-13T15:55:15",
     "eds": [
      "PRO",
      "MINI",
@@ -212,11 +212,11 @@
     ]
    }
   ],
-  "sig": "AbAVdnoeiYIP5PKDP5pJZKnR36tvURyIkV_hFgJaNcsTSW3CSx1GWQe1mUMFJhvMguk6PE1W2gk1DL-CW5g1BA"
+  "sig": "O9dG287DGbcK4BdIiP83G_35qGFUXnu3cWhsLfSA6NDF1r15cIgTfkCqIn7c4_oVqx8rpZOBc2xG8d8jh_61Bg"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-13T09:17:44",
+  "time": "2026-11-13T15:55:15",
   "docs": [
    {
     "id": "ADVIRA-PRO-Huong-dan-web.pdf",
@@ -224,7 +224,7 @@
     "desc": "",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-web.pdf",
     "size": 602679,
-    "date": "2026-11-13T09:17:41",
+    "date": "2026-11-13T15:55:15",
     "eds": [
      "PRO",
      "MINI",
@@ -427,11 +427,11 @@
     ]
    }
   ],
-  "sig": "zTcFGrmPyQggcOhERf36UnPvMuYn9bYHke7EvpZS1U0KM-9ymwNYi3Qtb_jHDZarB2U7oidDnrNkUi1t0mmDAQ"
+  "sig": "FbpE0xMJjBlPNXdAQPhFp_HJGhZRmaldQ9vH7i_rczXksMtz9MRwZ-KloBW89GT3FISnwwPStunxUs00GjD-CA"
  },
  {
   "ed": "API",
-  "time": "2026-11-13T09:17:44",
+  "time": "2026-11-13T15:55:15",
   "docs": [
    {
     "id": "ADVIRA-PRO-Huong-dan-web.pdf",
@@ -439,7 +439,7 @@
     "desc": "",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-web.pdf",
     "size": 602679,
-    "date": "2026-11-13T09:17:41",
+    "date": "2026-11-13T15:55:15",
     "eds": [
      "PRO",
      "MINI",
@@ -642,6 +642,6 @@
     ]
    }
   ],
-  "sig": "Kv1WZf5e6O--2poZNmiji6VcboSiO1g6JsPIHb9h9HVIYm8s3rNvy2ZE1Z5S80N_yYEs804vcBYPBRIfREaUDA"
+  "sig": "mUopbwo-2U4hrGutWu-gekbmykpGtKBO9dsKcqCgpIEO6VnP07Qt4TxgND-KL35RsGOTjZrhk14nKX5bLS2LAA"
  }
 ]
