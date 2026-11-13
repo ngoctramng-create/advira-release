@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-13T09:15:53",
+  "time": "2026-11-13T09:16:53",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-ket-noi.pdf",
+    "title": "PRO Huong dan ket noi",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-ket-noi.pdf",
+    "size": 561537,
+    "date": "2026-11-13T09:16:50",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-API-Huong-dan-cai-dat.pdf",
     "title": "API Huong dan cai dat",
@@ -186,12 +199,25 @@
     ]
    }
   ],
-  "sig": "W2YTH7y_MqFvBTcHFD6lAODOFk2NgipBcC70izuJSvsvWSUfYXsvTv-t5btsIp9nzDcKow1ucHpiQbOq7bf7AQ"
+  "sig": "1c-QswtYRQa3VAa8QhZ1jCcHzk3ZJd8FaL3-ZDBVMWxvold9h7Ui9cZ0VQ6kzx0q_oYjHvH2s1VZMnFzkodBBA"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-13T09:15:53",
+  "time": "2026-11-13T09:16:53",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-ket-noi.pdf",
+    "title": "PRO Huong dan ket noi",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-ket-noi.pdf",
+    "size": 561537,
+    "date": "2026-11-13T09:16:50",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-API-Huong-dan-cai-dat.pdf",
     "title": "API Huong dan cai dat",
@@ -375,12 +401,25 @@
     ]
    }
   ],
-  "sig": "oQ-9nEYnVvpvD1d7poOersfttdec9GW3hho59zCNWiP9pSouDABco_WInXkWROYYb0b_9aq2zEeaXpc5VQMPCw"
+  "sig": "XBRmbEl38Rabw1m6w8xb8SLZp_oSfID4C1tcbIRhtsE8yVW8T5hq3XFKfu2RLXZTvpWcQaAZBKaeZrE3UjsoCA"
  },
  {
   "ed": "API",
-  "time": "2026-11-13T09:15:53",
+  "time": "2026-11-13T09:16:53",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-ket-noi.pdf",
+    "title": "PRO Huong dan ket noi",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-ket-noi.pdf",
+    "size": 561537,
+    "date": "2026-11-13T09:16:50",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-API-Huong-dan-cai-dat.pdf",
     "title": "API Huong dan cai dat",
@@ -564,6 +603,6 @@
     ]
    }
   ],
-  "sig": "IwrUgdoYrvOcUQncy1NCcAnLHACGmg8RzAY-QDgMmDm81Qm4xN4QJRoxCbYIUXupLDlhtIVix-yyi4QuH_nNCA"
+  "sig": "rY-RqoFIPoQZ1VjZTN8pSJSXZbaufHZRsu6r6HB4faURS29YMPkzVn0Z3J5UrayTsWBXdtQJw8VyDXQwS7Z4Bg"
  }
 ]
