@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-13T07:05:14",
+  "time": "2026-11-13T08:58:39",
   "docs": [
+   {
+    "id": "ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
+    "title": "Cam nang ban cap nhat 13 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
+    "size": 1292293,
+    "date": "2026-11-13T08:58:35",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
     "title": "PRO Bo cam nang van hanh 4 trong 1 11 2026",
@@ -145,12 +158,25 @@
     ]
    }
   ],
-  "sig": "CcEId9lBH8P2BYGW0dA3uEphNos9CYbkjOuUK7rNLM5le540MtlmGvkFIyTU6fUWCnd09Sy3YjO0XdLXz0v_Cw"
+  "sig": "CvsQQ-ixjz7CrpFSU3cmQ4Ay3qkktnfvMmbBzhK7VWfk0dOH8Gd04Dciu_mgZimaZdst6W4fI57178NZ2eUpDw"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-13T07:05:14",
+  "time": "2026-11-13T08:58:39",
   "docs": [
+   {
+    "id": "ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
+    "title": "Cam nang ban cap nhat 13 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
+    "size": 1292293,
+    "date": "2026-11-13T08:58:35",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
     "title": "PRO Bo cam nang van hanh 4 trong 1 11 2026",
@@ -293,12 +319,25 @@
     ]
    }
   ],
-  "sig": "584D9iW33vyYJE5NUS5liaUDsQI3p-uC9i_yDPGj27VjF85cuviuCkskYcci8J6MF4HHkcWe91hISdS9ESdKCg"
+  "sig": "ELAQJHLoEXYRx2czn0YG6cv_pBvZAgO5vDOq7RpMSgwVBHtGNN9biQhVTlub8J2PdHb6dMlSGnJj_nGlQMZSBw"
  },
  {
   "ed": "API",
-  "time": "2026-11-13T07:05:14",
+  "time": "2026-11-13T08:58:39",
   "docs": [
+   {
+    "id": "ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
+    "title": "Cam nang ban cap nhat 13 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
+    "size": 1292293,
+    "date": "2026-11-13T08:58:35",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
     "title": "PRO Bo cam nang van hanh 4 trong 1 11 2026",
@@ -441,6 +480,6 @@
     ]
    }
   ],
-  "sig": "eSpzw_uDSIG-cIKhVT0jRb6c7iis16T0BaSlvcvc4Jh5ni4uHpdiXpnbR4lJA5T6KkmwRamQIRmYco-xy6XSDQ"
+  "sig": "u1ZVet9yzWNA1aUYPm17bY8xENFOcytHj9gItsRQB24N0PhlFlKfDy4jV-0eWxkct9Mm3mxkpFllz8u4y1DCCw"
  }
 ]
