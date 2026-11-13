@@ -1,5 +1,13 @@
 [
   {
+    "id": "20261113090138",
+    "time": "2026-11-13T09:01:38",
+    "title": "📚 Tài liệu mới: PRO Bang lenh bot",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Bang-lenh-bot.pdf",
+    "sig": "vemIxAgaXSm_oJ0WWFsSI5nn8_bEkuKi1UzCzHpaZe5EdImnUQ4BFwDgUEklSYbH2P7E_sn64OMT6mVLYl6MAQ"
+  },
+  {
     "id": "20261113085852",
     "time": "2026-11-13T08:58:52",
     "title": "📚 Tài liệu mới: Cam nang ban cap nhat 13 11 2026",
@@ -72,12 +80,13 @@
     "sig": "C-y1kjI6QRP-kqEIM3t9bRUkafQmPiQc6E9Vuyr-yrK2X56nolkkMdw-wXKSCgn49jpVK5H_nsitzTQyA6r3CA"
   },
   {
-    "id": "20261112082904",
-    "time": "2026-11-12T08:29:04",
-    "title": "📚 Tài liệu mới: Bang lenh Bot 11 2026",
-    "body": "Huong dan day du giao dien moi 11 2026",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-lenh-Bot-11-2026.pdf",
-    "sig": "wHU3Q6Ntn_WDFCq0gW6JcJobMevG5m16vm5n0IIr6ReMyX-qQzhdNVu8GclS_vYYV-Y1qav6g7cKWTOhPYd-Aw"
+    "id": "20261113090138",
+    "time": "2026-11-13T09:01:38",
+    "title": "📚 Tài liệu mới: PRO Bang lenh bot",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Bang-lenh-bot.pdf",
+    "sig": "tcChWEEw7-TA4agQJGr1LH35UAP1g4GqIPi0m8wSBz0KfRTUK-mkZU-3wYobpRVcuPmuEsOuGK0wVfX_9i-NBA",
+    "ed": "Mini"
   },
   {
     "id": "20261113085852",
@@ -161,13 +170,13 @@
     "ed": "Mini"
   },
   {
-    "id": "20261112082904",
-    "time": "2026-11-12T08:29:04",
-    "title": "📚 Tài liệu mới: Bang lenh Bot 11 2026",
-    "body": "Huong dan day du giao dien moi 11 2026",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-lenh-Bot-11-2026.pdf",
-    "sig": "-KAM0QiBjm_BXe5Pgb1TsmS29tC2Bk5MBW20EHtIqLgI3TicoGZshZBq0bPNPmpdswJEquhNK55lSn6mYuRtCQ",
-    "ed": "Mini"
+    "id": "20261113090138",
+    "time": "2026-11-13T09:01:38",
+    "title": "📚 Tài liệu mới: PRO Bang lenh bot",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Bang-lenh-bot.pdf",
+    "sig": "WopAXtKLatsbYGdChj3jqZrnszJhiJYOmmTiQSDpGi4jPV4UgTXSvwfcTa4GgzQH5hwv4QI77xObew8o-1kNAQ",
+    "ed": "API"
   },
   {
     "id": "20261113085852",
@@ -248,15 +257,6 @@
     "body": "",
     "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
     "sig": "lgc59F65vWNs-2WArfBjmsr8nPiCedvaRzJDERPwHc3bATcBkQqGMfb7L2C5JhmT_UdfHklj_ejfRFQiyph2Ag",
-    "ed": "API"
-  },
-  {
-    "id": "20261112082904",
-    "time": "2026-11-12T08:29:04",
-    "title": "📚 Tài liệu mới: Bang lenh Bot 11 2026",
-    "body": "Huong dan day du giao dien moi 11 2026",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-lenh-Bot-11-2026.pdf",
-    "sig": "qBpIMgtEMUuKFltg22gVP1oY1LfwfXldLQR_rtIqoj8Fpv-WSE1iajC3a6W_oi-1H-F1RnAAiR-F691yNWYlAw",
     "ed": "API"
   }
 ]
