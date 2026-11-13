@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-12T23:48:24",
+  "time": "2026-11-13T07:05:14",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
+    "title": "PRO Bo cam nang van hanh 4 trong 1 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
+    "size": 2621402,
+    "date": "2026-11-13T07:05:09",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-API-Huong-dan-cai-dat.pdf",
     "title": "API Huong dan cai dat",
@@ -132,12 +145,25 @@
     ]
    }
   ],
-  "sig": "vgO0AckKi30lKg80E_GH6pAf6a_--Nx7zpIr1SMiOLzDWhERx0GfiJnp4JevqZxtz2QtfxoBu513wDDw_lMPBA"
+  "sig": "CcEId9lBH8P2BYGW0dA3uEphNos9CYbkjOuUK7rNLM5le540MtlmGvkFIyTU6fUWCnd09Sy3YjO0XdLXz0v_Cw"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-12T23:48:24",
+  "time": "2026-11-13T07:05:14",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
+    "title": "PRO Bo cam nang van hanh 4 trong 1 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
+    "size": 2621402,
+    "date": "2026-11-13T07:05:09",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-API-Huong-dan-cai-dat.pdf",
     "title": "API Huong dan cai dat",
@@ -267,12 +293,25 @@
     ]
    }
   ],
-  "sig": "c3r5Crvi32UvLDm-Y_67x_NfL_X9wHLapj9Vlv8A9u_yNBV1B03hMyGDDjQU-RPxgEHeZJo4a5qDvrCCAgl1CQ"
+  "sig": "584D9iW33vyYJE5NUS5liaUDsQI3p-uC9i_yDPGj27VjF85cuviuCkskYcci8J6MF4HHkcWe91hISdS9ESdKCg"
  },
  {
   "ed": "API",
-  "time": "2026-11-12T23:48:24",
+  "time": "2026-11-13T07:05:14",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
+    "title": "PRO Bo cam nang van hanh 4 trong 1 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
+    "size": 2621402,
+    "date": "2026-11-13T07:05:09",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-API-Huong-dan-cai-dat.pdf",
     "title": "API Huong dan cai dat",
@@ -402,6 +441,6 @@
     ]
    }
   ],
-  "sig": "AHkd1H-6-VYTXYPw47tSFmBB3M0SW8eSFOFbs5wI06XAbF0trwwcazRu2D9f4u_hK4Dyve0cJiRvK3sAYEAJBA"
+  "sig": "eSpzw_uDSIG-cIKhVT0jRb6c7iis16T0BaSlvcvc4Jh5ni4uHpdiXpnbR4lJA5T6KkmwRamQIRmYco-xy6XSDQ"
  }
 ]
