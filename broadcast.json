@@ -1,5 +1,13 @@
 [
   {
+    "id": "20261113085852",
+    "time": "2026-11-13T08:58:52",
+    "title": "📚 Tài liệu mới: Cam nang ban cap nhat 13 11 2026",
+    "body": "Cam nang ban cap nhat 13 11 2026",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
+    "sig": "h8AB-BgNNoRFFj9xpj7MIeaT6IiH0ZKhS8Gy-C_5eLecKhT39YXsJOd1vCtwYDJeXZ2s0M1PLWPjjcCP4iNyBg"
+  },
+  {
     "id": "20261113070516",
     "time": "2026-11-13T07:05:16",
     "title": "📚 Tài liệu mới: PRO Bo cam nang van hanh 4 trong 1 11 2026",
@@ -72,12 +80,13 @@
     "sig": "wHU3Q6Ntn_WDFCq0gW6JcJobMevG5m16vm5n0IIr6ReMyX-qQzhdNVu8GclS_vYYV-Y1qav6g7cKWTOhPYd-Aw"
   },
   {
-    "id": "20261112082857",
-    "time": "2026-11-12T08:28:57",
-    "title": "📚 Tài liệu mới: Huong dan day du giao dien moi 11 2026",
-    "body": "Ae lưu ý: từ giờ tài liệu sẽ đẩy tự động cho ae qua bot telegram nha. Thân gửi",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
-    "sig": "V3QTyubbv08dud0hZiM5p_NaVFNtSIp9pCvPexhYqkJmVdfcfd82vPt5wuq14gCnz9sB_BQcTqITdXmNhszGAQ"
+    "id": "20261113085852",
+    "time": "2026-11-13T08:58:52",
+    "title": "📚 Tài liệu mới: Cam nang ban cap nhat 13 11 2026",
+    "body": "Cam nang ban cap nhat 13 11 2026",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
+    "sig": "avk7WRIANKMNIxY_RgwSAZIj5Ek6bNNO8gve-__Lm4vlLs6uzn5Jhw6zp19V95ZNycqzyyZV8CSEq4T4Ze5NAQ",
+    "ed": "Mini"
   },
   {
     "id": "20261113070516",
@@ -161,13 +170,13 @@
     "ed": "Mini"
   },
   {
-    "id": "20261112082857",
-    "time": "2026-11-12T08:28:57",
-    "title": "📚 Tài liệu mới: Huong dan day du giao dien moi 11 2026",
-    "body": "Ae lưu ý: từ giờ tài liệu sẽ đẩy tự động cho ae qua bot telegram nha. Thân gửi",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
-    "sig": "Z7W7X-sfL_by6JsR1mkOoTA_nNxcLB4AkYjL2QeP8mIpeXw-3RMrOMg4jR7De2R9BMj5JNnO4tnFYxf_5X4WCQ",
-    "ed": "Mini"
+    "id": "20261113085852",
+    "time": "2026-11-13T08:58:52",
+    "title": "📚 Tài liệu mới: Cam nang ban cap nhat 13 11 2026",
+    "body": "Cam nang ban cap nhat 13 11 2026",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
+    "sig": "-UXtXJE6il9BQZIqPzdt93RVSt0IfEwBsmtc_Iz4QjGixUS3JHYkW-p-1c5CUyI6fDbwgW1_w2mgRQf78I-KBg",
+    "ed": "API"
   },
   {
     "id": "20261113070516",
@@ -248,15 +257,6 @@
     "body": "Huong dan day du giao dien moi 11 2026",
     "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-lenh-Bot-11-2026.pdf",
     "sig": "qBpIMgtEMUuKFltg22gVP1oY1LfwfXldLQR_rtIqoj8Fpv-WSE1iajC3a6W_oi-1H-F1RnAAiR-F691yNWYlAw",
-    "ed": "API"
-  },
-  {
-    "id": "20261112082857",
-    "time": "2026-11-12T08:28:57",
-    "title": "📚 Tài liệu mới: Huong dan day du giao dien moi 11 2026",
-    "body": "Ae lưu ý: từ giờ tài liệu sẽ đẩy tự động cho ae qua bot telegram nha. Thân gửi",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
-    "sig": "iuUdl40PdvkHtRG9QOK4xvjby3IwimTNNOIAxUuFHbcDxLQCD9gdZUSFGP7T80NGlNG2vg91AjXjV8TyW2XJBw",
     "ed": "API"
   }
 ]
