@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-13T09:16:53",
+  "time": "2026-11-13T09:17:44",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-web.pdf",
+    "title": "PRO Huong dan web",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-web.pdf",
+    "size": 602679,
+    "date": "2026-11-13T09:17:41",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Huong-dan-ket-noi.pdf",
     "title": "PRO Huong dan ket noi",
@@ -199,12 +212,25 @@
     ]
    }
   ],
-  "sig": "1c-QswtYRQa3VAa8QhZ1jCcHzk3ZJd8FaL3-ZDBVMWxvold9h7Ui9cZ0VQ6kzx0q_oYjHvH2s1VZMnFzkodBBA"
+  "sig": "AbAVdnoeiYIP5PKDP5pJZKnR36tvURyIkV_hFgJaNcsTSW3CSx1GWQe1mUMFJhvMguk6PE1W2gk1DL-CW5g1BA"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-13T09:16:53",
+  "time": "2026-11-13T09:17:44",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-web.pdf",
+    "title": "PRO Huong dan web",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-web.pdf",
+    "size": 602679,
+    "date": "2026-11-13T09:17:41",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Huong-dan-ket-noi.pdf",
     "title": "PRO Huong dan ket noi",
@@ -401,12 +427,25 @@
     ]
    }
   ],
-  "sig": "XBRmbEl38Rabw1m6w8xb8SLZp_oSfID4C1tcbIRhtsE8yVW8T5hq3XFKfu2RLXZTvpWcQaAZBKaeZrE3UjsoCA"
+  "sig": "zTcFGrmPyQggcOhERf36UnPvMuYn9bYHke7EvpZS1U0KM-9ymwNYi3Qtb_jHDZarB2U7oidDnrNkUi1t0mmDAQ"
  },
  {
   "ed": "API",
-  "time": "2026-11-13T09:16:53",
+  "time": "2026-11-13T09:17:44",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-web.pdf",
+    "title": "PRO Huong dan web",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-web.pdf",
+    "size": 602679,
+    "date": "2026-11-13T09:17:41",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Huong-dan-ket-noi.pdf",
     "title": "PRO Huong dan ket noi",
@@ -603,6 +642,6 @@
     ]
    }
   ],
-  "sig": "rY-RqoFIPoQZ1VjZTN8pSJSXZbaufHZRsu6r6HB4faURS29YMPkzVn0Z3J5UrayTsWBXdtQJw8VyDXQwS7Z4Bg"
+  "sig": "Kv1WZf5e6O--2poZNmiji6VcboSiO1g6JsPIHb9h9HVIYm8s3rNvy2ZE1Z5S80N_yYEs804vcBYPBRIfREaUDA"
  }
 ]
