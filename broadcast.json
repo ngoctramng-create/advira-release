@@ -1,5 +1,13 @@
 [
   {
+    "id": "20261113091700",
+    "time": "2026-11-13T09:17:00",
+    "title": "📚 Tài liệu mới: PRO Huong dan ket noi",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-ket-noi.pdf",
+    "sig": "l0DYTZuY35DDGcWzXXiybqoFEXw0A6Us4-NhpaccBlydJsFWch2NeE2MK0RpUGIs9EXExDMbMn1jJO3TWCHSCg"
+  },
+  {
     "id": "20261113091600",
     "time": "2026-11-13T09:16:00",
     "title": "📚 Tài liệu mới: API Huong dan cai dat",
@@ -72,12 +80,13 @@
     "sig": "2Ar7wqcomSya-lex10dohGzQcADVC9w337OWaqc6nFk005rtogFDH4ydYj9itwArutNuSavL4AzvN-If6CvgAA"
   },
   {
-    "id": "20261112094822",
-    "time": "2026-11-12T09:48:22",
-    "title": "📚 Tài liệu mới: Phu Page so luong lon",
+    "id": "20261113091700",
+    "time": "2026-11-13T09:17:00",
+    "title": "📚 Tài liệu mới: PRO Huong dan ket noi",
     "body": "",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Phu-Page-so-luong-lon.pdf",
-    "sig": "7uMerDMBHT0t_VZ9B6NQxh0fXMTV8zqYWliI0WJPMkXHY5VGL8ldlNHVswE0z1GwBGuYm4z8Pt41GxiCRidoAw"
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-ket-noi.pdf",
+    "sig": "GgdXXtX-PMk-coPfONUsiMxoqT523y3hMujIez5DJHOAWDmqv5UoXa6RMfVoL7R0Fkjgvp9Hcl3zL93VDhgYAw",
+    "ed": "Mini"
   },
   {
     "id": "20261113091600",
@@ -161,13 +170,13 @@
     "ed": "Mini"
   },
   {
-    "id": "20261112094822",
-    "time": "2026-11-12T09:48:22",
-    "title": "📚 Tài liệu mới: Phu Page so luong lon",
+    "id": "20261113091700",
+    "time": "2026-11-13T09:17:00",
+    "title": "📚 Tài liệu mới: PRO Huong dan ket noi",
     "body": "",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Phu-Page-so-luong-lon.pdf",
-    "sig": "8Q4PVm-2_-SiQa3WScYm9bXSM7eBQiAMAYXbPNrsWDzIjazJLy6ItslqBBHaE_7gcC1_Dq3jP9W50TAz8qoxAw",
-    "ed": "Mini"
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-ket-noi.pdf",
+    "sig": "SIft9VL4BDBqhRHIVo9ze5_nACBPWmNGeIYWaGaRlww-oPMO5BdADA63WWdfENw6VVphQ9w2XjXA66uxTvVtAg",
+    "ed": "API"
   },
   {
     "id": "20261113091600",
@@ -248,15 +257,6 @@
     "body": "Cách lấy API, tài khoản sử dụng trong hệ thống ADVIRA\nCách lấy API, tài khoản sử dụng trong hệ thống ADVIRA",
     "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
     "sig": "eDZWn0TjUZEQ9SXceXepK1Pw9OQGeDOA9fuXTAMAPn2QOnGeuiyZ-cpPDxwI-r8yC2CNjVZYXeU86JWlmKqlCQ",
-    "ed": "API"
-  },
-  {
-    "id": "20261112094822",
-    "time": "2026-11-12T09:48:22",
-    "title": "📚 Tài liệu mới: Phu Page so luong lon",
-    "body": "",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Phu-Page-so-luong-lon.pdf",
-    "sig": "zm4gioyPaoo03IA3w86wUNuGR5hcgCT-Npwbyd4uMO_QULtc5a3hstHeZrVnudNJjqEEiOR58u75n90juKL-AQ",
     "ed": "API"
   }
 ]
