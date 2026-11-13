@@ -1,5 +1,13 @@
 [
   {
+    "id": "20261113091752",
+    "time": "2026-11-13T09:17:52",
+    "title": "📚 Tài liệu mới: PRO Huong dan web",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-web.pdf",
+    "sig": "vr1LlVEydgSzBn57eWF_0nmyiPvlU2XM0oDldglMGG_MLxCO4eo-F-wno0r8ZiWNxMWeliAokYcaWwdNO0GzCA"
+  },
+  {
     "id": "20261113091700",
     "time": "2026-11-13T09:17:00",
     "title": "📚 Tài liệu mới: PRO Huong dan ket noi",
@@ -72,12 +80,13 @@
     "sig": "vamIR5EFTfH-RMN5DwtyFyWzbLweEES7ALbYDvUobatRqY3nfCCCLxqaWgZt-QCjXgv600BOL51bZYbl7siSDg"
   },
   {
-    "id": "20261112150937",
-    "time": "2026-11-12T15:09:37",
-    "title": "📚 Tài liệu mới: Cach lay API key token 11 2026",
-    "body": "Cách lấy API, tài khoản sử dụng trong hệ thống ADVIRA\nCách lấy API, tài khoản sử dụng trong hệ thống ADVIRA",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
-    "sig": "2Ar7wqcomSya-lex10dohGzQcADVC9w337OWaqc6nFk005rtogFDH4ydYj9itwArutNuSavL4AzvN-If6CvgAA"
+    "id": "20261113091752",
+    "time": "2026-11-13T09:17:52",
+    "title": "📚 Tài liệu mới: PRO Huong dan web",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-web.pdf",
+    "sig": "coTyKdVwC_-A_b6E55SftU5QVOYX9KYy6oNQapTzhzyS_lFOO99Ph-FBUTZPjk2h5nYudZi5mN_AQZ1Dxtt0AQ",
+    "ed": "Mini"
   },
   {
     "id": "20261113091700",
@@ -161,13 +170,13 @@
     "ed": "Mini"
   },
   {
-    "id": "20261112150937",
-    "time": "2026-11-12T15:09:37",
-    "title": "📚 Tài liệu mới: Cach lay API key token 11 2026",
-    "body": "Cách lấy API, tài khoản sử dụng trong hệ thống ADVIRA\nCách lấy API, tài khoản sử dụng trong hệ thống ADVIRA",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
-    "sig": "PYJCdrQ2MF7guxKXtSr9a1IwIJ-iwv-kp6Jp0d5ANAvRP0-TZOtqe5tzJeA9I9X4moKNJmeimaGEb8ytFdO-Dw",
-    "ed": "Mini"
+    "id": "20261113091752",
+    "time": "2026-11-13T09:17:52",
+    "title": "📚 Tài liệu mới: PRO Huong dan web",
+    "body": "",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-web.pdf",
+    "sig": "NQkqZOuuAwIMZCnwbNoshz0UGNntJIP6AZDkExFGt4PJQt8NfCm-_xG8oyX1mRwysEMnYDrkO3FQEz-gVw7nDQ",
+    "ed": "API"
   },
   {
     "id": "20261113091700",
@@ -248,15 +257,6 @@
     "body": "BIG UDATE: ADVIRA-PRO-2026.1112.2305 ADVIRA-API-2026.1112.2325 ADVIRA-MINI-2026.1112.2324",
     "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
     "sig": "VSZQE1n4LXWEcDxDN1HRTnqMJSK7iQOYBt2jUcw8txthZvPXmNbnoI-GFd7trQ8urkME3PPYskRMWpE0tPybCg",
-    "ed": "API"
-  },
-  {
-    "id": "20261112150937",
-    "time": "2026-11-12T15:09:37",
-    "title": "📚 Tài liệu mới: Cach lay API key token 11 2026",
-    "body": "Cách lấy API, tài khoản sử dụng trong hệ thống ADVIRA\nCách lấy API, tài khoản sử dụng trong hệ thống ADVIRA",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
-    "sig": "eDZWn0TjUZEQ9SXceXepK1Pw9OQGeDOA9fuXTAMAPn2QOnGeuiyZ-cpPDxwI-r8yC2CNjVZYXeU86JWlmKqlCQ",
     "ed": "API"
   }
 ]
