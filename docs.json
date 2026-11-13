@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-13T09:01:32",
+  "time": "2026-11-13T09:15:37",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-Ke-hoach-Phu-Page.pdf",
+    "title": "PRO Huong dan Ke hoach Phu Page",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-Ke-hoach-Phu-Page.pdf",
+    "size": 873941,
+    "date": "2026-11-13T09:15:33",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Bang-lenh-bot.pdf",
     "title": "PRO Bang lenh bot",
@@ -171,12 +184,25 @@
     ]
    }
   ],
-  "sig": "W7baZt6Piell7UWuZgJBbikGy2Q1-OwvCC-MxncRtfNuVrSj2kwd7sexXyUdIiEdA6hB531ye7nqNKRK_cZ3DQ"
+  "sig": "DqzVZ9fW7Io8SqYOL4qp6OOuIP0JMpGdPorThQryFWwAQ4WJ5-MTHk3OTfHm5OT5F4kqA9zoJLY-ZxK6MLQuBg"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-13T09:01:32",
+  "time": "2026-11-13T09:15:37",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-Ke-hoach-Phu-Page.pdf",
+    "title": "PRO Huong dan Ke hoach Phu Page",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-Ke-hoach-Phu-Page.pdf",
+    "size": 873941,
+    "date": "2026-11-13T09:15:33",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Bang-lenh-bot.pdf",
     "title": "PRO Bang lenh bot",
@@ -345,12 +371,25 @@
     ]
    }
   ],
-  "sig": "dpLpQH5ue0xPEBmagkO6CR2tMXX8euM_z8yhx9ZJLZDMgUuHvSLlWZ-vgY_axpEChpxOFYqfQ4MVUhZz4zzpBA"
+  "sig": "WFNf6LVZknwuKiqJGDIpw0RNLxYxWv04KXWk9Pnczws4W7MW82ppYyOPVI7UGQe2FlTNEVWRrvoKLVzT8MaUCQ"
  },
  {
   "ed": "API",
-  "time": "2026-11-13T09:01:32",
+  "time": "2026-11-13T09:15:37",
   "docs": [
+   {
+    "id": "ADVIRA-PRO-Huong-dan-Ke-hoach-Phu-Page.pdf",
+    "title": "PRO Huong dan Ke hoach Phu Page",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-Ke-hoach-Phu-Page.pdf",
+    "size": 873941,
+    "date": "2026-11-13T09:15:33",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Bang-lenh-bot.pdf",
     "title": "PRO Bang lenh bot",
@@ -519,6 +558,6 @@
     ]
    }
   ],
-  "sig": "Yc3Vk2i5i4OseiGluiz7e86d9RezvBs5mjNGV3dgHyA2fovhZbNxEc3qxRTTThaxmeD4KBUka-zEK-D9fVHVDQ"
+  "sig": "P_tARChmMhuG2-taEgqldafIxIVarI28okTEqe3J_ZuEp3hYAXrCAt7bSyVqorBS3rg6-sMu0MdlpgF5Im-7Bg"
  }
 ]
