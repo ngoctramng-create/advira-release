@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-15T10:17:06",
+  "time": "2026-11-15T23:39:40",
   "docs": [
+   {
+    "id": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "title": "Giao trinh Hoc vien 11 2026",
+    "desc": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "size": 1966107,
+    "date": "2026-11-15T23:39:36",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
     "title": "Cam nang ban cap nhat 15 11 2026",
@@ -225,12 +238,25 @@
     ]
    }
   ],
-  "sig": "71VHo8W7E1_iIhZiMTRk04OM1gMMV_T9sIomPmDQxcA8iZvVooWfCxgCQtlnQGJJurEYf9ruJEAT8u0FowiMCQ"
+  "sig": "iyWUdR_eGLSFhaFQoG-PdVbYZ5AuMvltfemfliBJiJ72zuFxMbyM-80YTiXk3mXBy_0KhuZi5Dcqp2j36D_9Aw"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-15T10:17:06",
+  "time": "2026-11-15T23:39:40",
   "docs": [
+   {
+    "id": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "title": "Giao trinh Hoc vien 11 2026",
+    "desc": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "size": 1966107,
+    "date": "2026-11-15T23:39:36",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
     "title": "Cam nang ban cap nhat 15 11 2026",
@@ -453,12 +479,25 @@
     ]
    }
   ],
-  "sig": "R8lg7P2MTTarYpwda2f0c6E_iB60jeOVUn6FLLKTp3X3-XHR6m8w8qLFgb8W5tSsyA9CwNnp6Gf3jCtqW0yUBg"
+  "sig": "-xbALaDnkJlHSzarB8K-8vw8Ocxy_BwygGYb9pzx3IFoALLv-4rM4NgF9tRExyvu0WGgpg4yE8-org_D5-WiBw"
  },
  {
   "ed": "API",
-  "time": "2026-11-15T10:17:06",
+  "time": "2026-11-15T23:39:40",
   "docs": [
+   {
+    "id": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "title": "Giao trinh Hoc vien 11 2026",
+    "desc": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "size": 1966107,
+    "date": "2026-11-15T23:39:36",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
     "title": "Cam nang ban cap nhat 15 11 2026",
@@ -681,6 +720,6 @@
     ]
    }
   ],
-  "sig": "LzdctMT1eZBA7Xd-u5pnYMul6a5Lh6Wncju3nYJEFUSbdzltS9kn2dARVlU5ZLLVUqAcb8WMA37g6w4m008ZCA"
+  "sig": "xpCAqYDgW8PxIzAmRQani93nTOHokIySeRMiVLxl1qkYob9fbMkAmXZuGig7HtLbdW5ldLAYwKyNn3AXX-drCw"
  }
 ]
