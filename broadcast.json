@@ -1,5 +1,13 @@
 [
   {
+    "id": "20261115233955",
+    "time": "2026-11-15T23:39:55",
+    "title": "📚 Tài liệu mới: Giao trinh Hoc vien 11 2026",
+    "body": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "sig": "4FjpPMMIC7z4JNSNLR7vQF9eCLqurla8cf3et2IUA1oPaPhXGIqJRyPIEE2KFSxcyJSsuFGkacdAe4JnN4GgAQ"
+  },
+  {
     "id": "20261115101655",
     "time": "2026-11-15T10:16:55",
     "title": "📚 Tài liệu mới: Cam nang ban cap nhat 15 11 2026",
@@ -72,12 +80,13 @@
     "sig": "aEkWt56N8wbPh2tWxzEFeAYlDIKwSCPTVWvZ_PX7_dHu7ki7zisl_wK0l22saJ7J8x18IFdbn3alv-xwM2iiAw"
   },
   {
-    "id": "20261112234827",
-    "time": "2026-11-12T23:48:27",
-    "title": "📚 Tài liệu mới: API Huong dan cai dat",
-    "body": "",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-API-Huong-dan-cai-dat.pdf",
-    "sig": "gN54lnVh5FlfD2zmIzfcyTobDIsPz3BtL-e5v1bNGgYWuPRl5upurWGKzVBjQXdH0FydKz4ZCZHbum-N1CvrCw"
+    "id": "20261115233955",
+    "time": "2026-11-15T23:39:55",
+    "title": "📚 Tài liệu mới: Giao trinh Hoc vien 11 2026",
+    "body": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "sig": "0FF-yR2pVLen7r6PYCTO8evfQhuJ-c2NG-nJthtEHSxRNPz2lC_MfWBONbg96wZwr82r_gOAM7b7xpZbcyzrAw",
+    "ed": "Mini"
   },
   {
     "id": "20261115101655",
@@ -161,13 +170,13 @@
     "ed": "Mini"
   },
   {
-    "id": "20261112234827",
-    "time": "2026-11-12T23:48:27",
-    "title": "📚 Tài liệu mới: API Huong dan cai dat",
-    "body": "",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-API-Huong-dan-cai-dat.pdf",
-    "sig": "-MPj7zhBc_yJF1gPypy3M8mxszOsd9wApqUJb5pgcG1o3tlRXrn6jEBLEhsIXQ9LROF-BiB0i7cUKHTFHEZdCw",
-    "ed": "Mini"
+    "id": "20261115233955",
+    "time": "2026-11-15T23:39:55",
+    "title": "📚 Tài liệu mới: Giao trinh Hoc vien 11 2026",
+    "body": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "sig": "Z55Yf7yTahRUoOgbnIU2o6q6jEKFB0vPiDF5djJ8RMPf_wX2YKMULLHw-T83EF_ltHFQMCw1VLeqpRgHAzAnAg",
+    "ed": "API"
   },
   {
     "id": "20261115101655",
@@ -248,15 +257,6 @@
     "body": "",
     "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
     "sig": "_yuMkXQBKDUHmnZVP9UqKZr6gf-Bh4yJheklZnIzOeVmgNpumG_7ropsxAAxZfQljJoeU85YjtVxennB0tMXBw",
-    "ed": "API"
-  },
-  {
-    "id": "20261112234827",
-    "time": "2026-11-12T23:48:27",
-    "title": "📚 Tài liệu mới: API Huong dan cai dat",
-    "body": "",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-API-Huong-dan-cai-dat.pdf",
-    "sig": "ctfeRWC_21pnOkCP4oo5fPjrsBk5MWbJ_LZRIOWSoIAeEJplxhfNFIlB5t3Wru6r4XkiUPoJcXWqOnnBZKR2Bw",
     "ed": "API"
   }
 ]
