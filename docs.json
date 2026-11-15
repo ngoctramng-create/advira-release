@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-13T15:55:15",
+  "time": "2026-11-15T10:16:48",
   "docs": [
+   {
+    "id": "ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
+    "title": "Cam nang ban cap nhat 15 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
+    "size": 579773,
+    "date": "2026-11-15T10:16:45",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Huong-dan-web.pdf",
     "title": "PRO Huong dan web",
@@ -212,12 +225,25 @@
     ]
    }
   ],
-  "sig": "O9dG287DGbcK4BdIiP83G_35qGFUXnu3cWhsLfSA6NDF1r15cIgTfkCqIn7c4_oVqx8rpZOBc2xG8d8jh_61Bg"
+  "sig": "fkr-4CYmyBKUaAPpSxXEn4ym0v3TWD2WxC7OIuzBQqoXkE42Qys7e5HFI4m_H8o9PfCSnh5wtOfcxLb9_oxiCw"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-13T15:55:15",
+  "time": "2026-11-15T10:16:48",
   "docs": [
+   {
+    "id": "ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
+    "title": "Cam nang ban cap nhat 15 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
+    "size": 579773,
+    "date": "2026-11-15T10:16:45",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Huong-dan-web.pdf",
     "title": "PRO Huong dan web",
@@ -427,12 +453,25 @@
     ]
    }
   ],
-  "sig": "FbpE0xMJjBlPNXdAQPhFp_HJGhZRmaldQ9vH7i_rczXksMtz9MRwZ-KloBW89GT3FISnwwPStunxUs00GjD-CA"
+  "sig": "gzna6vjvZS1nFTz6LEolQNs0hTMq1FM-eBJS3itoKWCl2wIZDkiWrDKKZGT85YFi-sr3Jw8dfjmll4u7wsnmBQ"
  },
  {
   "ed": "API",
-  "time": "2026-11-13T15:55:15",
+  "time": "2026-11-15T10:16:48",
   "docs": [
+   {
+    "id": "ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
+    "title": "Cam nang ban cap nhat 15 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
+    "size": 579773,
+    "date": "2026-11-15T10:16:45",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-PRO-Huong-dan-web.pdf",
     "title": "PRO Huong dan web",
@@ -642,6 +681,6 @@
     ]
    }
   ],
-  "sig": "mUopbwo-2U4hrGutWu-gekbmykpGtKBO9dsKcqCgpIEO6VnP07Qt4TxgND-KL35RsGOTjZrhk14nKX5bLS2LAA"
+  "sig": "ga7ndQPR6oGRCRoJcshQV7jiJXudx0-j7jhw93AM2NQTcs8mQVkgn9FajI1STRfkelYvGV120j8D16BuzwsKDg"
  }
 ]
