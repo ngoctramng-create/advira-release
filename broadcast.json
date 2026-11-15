@@ -1,5 +1,13 @@
 [
   {
+    "id": "20261115101655",
+    "time": "2026-11-15T10:16:55",
+    "title": "📚 Tài liệu mới: Cam nang ban cap nhat 15 11 2026",
+    "body": "Cam nang ban cap nhat 15 11 2026",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
+    "sig": "Fw_94aZ25sq9-ZHYS1HSDQuahkp_CbP1uZCXIDWY2LEoZDCKxpd_3lLc9Tfof3Nnfg0iq3R5IBRR8v29rtBpCQ"
+  },
+  {
     "id": "20261113155524",
     "time": "2026-11-13T15:55:24",
     "title": "📚 Tài liệu mới: PRO Huong dan web",
@@ -72,12 +80,13 @@
     "sig": "gN54lnVh5FlfD2zmIzfcyTobDIsPz3BtL-e5v1bNGgYWuPRl5upurWGKzVBjQXdH0FydKz4ZCZHbum-N1CvrCw"
   },
   {
-    "id": "20261112234711",
-    "time": "2026-11-12T23:47:11",
-    "title": "📚 Tài liệu mới: PRO Huong dan su dung",
-    "body": "",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-su-dung.pdf",
-    "sig": "8S9va9DSK7Plva8A8H5_md42vP2F47hZ_48ZeQcnj7O7CyyZH844Ku03ocjroU6RRDt6l6KX7-c_yX3O_XpuBg"
+    "id": "20261115101655",
+    "time": "2026-11-15T10:16:55",
+    "title": "📚 Tài liệu mới: Cam nang ban cap nhat 15 11 2026",
+    "body": "Cam nang ban cap nhat 15 11 2026",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
+    "sig": "slURWAcca_vilOCq5o-j6bX4muJoFxUg8Eq40CWmvKW5bGKM6jqu0NuRqrW2-2EzRRe3e_vOKHo16FJXQGQQAw",
+    "ed": "Mini"
   },
   {
     "id": "20261113155524",
@@ -161,13 +170,13 @@
     "ed": "Mini"
   },
   {
-    "id": "20261112234711",
-    "time": "2026-11-12T23:47:11",
-    "title": "📚 Tài liệu mới: PRO Huong dan su dung",
-    "body": "",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-su-dung.pdf",
-    "sig": "gfkNgmOl1YnYTebI3Z-zgs9Fwd6SRbQkN_wuYD9m_ZVGJLOux1X-Hs2yllV8R7WCC_VEF7vohUOqHofUlZ1iBw",
-    "ed": "Mini"
+    "id": "20261115101655",
+    "time": "2026-11-15T10:16:55",
+    "title": "📚 Tài liệu mới: Cam nang ban cap nhat 15 11 2026",
+    "body": "Cam nang ban cap nhat 15 11 2026",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
+    "sig": "9BjhBW1yCIcZ5pfhCGeLA0nPCOB8A0b4BNNkjv77MRtmqh_F-DjYfQueKwRHOdfAxOChhwD-VSGtZiNx0PBqDA",
+    "ed": "API"
   },
   {
     "id": "20261113155524",
@@ -248,15 +257,6 @@
     "body": "",
     "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-API-Huong-dan-cai-dat.pdf",
     "sig": "ctfeRWC_21pnOkCP4oo5fPjrsBk5MWbJ_LZRIOWSoIAeEJplxhfNFIlB5t3Wru6r4XkiUPoJcXWqOnnBZKR2Bw",
-    "ed": "API"
-  },
-  {
-    "id": "20261112234711",
-    "time": "2026-11-12T23:47:11",
-    "title": "📚 Tài liệu mới: PRO Huong dan su dung",
-    "body": "",
-    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-su-dung.pdf",
-    "sig": "m8VkyIHJ_1CVj2hh9QYh0VVT8Rau4sScq12ZXQv1XD66UYGOQ6SCGnkJHKRuS9vLmy_Y-5cNEFgEOyysuaBgDw",
     "ed": "API"
   }
 ]
