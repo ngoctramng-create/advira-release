@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-15T23:39:40",
+  "time": "2026-11-18T19:31:36",
   "docs": [
+   {
+    "id": "ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
+    "title": "Bang thao tac cu va moi 18 11 2026",
+    "desc": "Bang thao tac cu va moi 18 11 2026",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
+    "size": 211845,
+    "date": "2026-11-18T19:31:33",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
     "title": "Giao trinh Hoc vien 11 2026",
@@ -238,12 +251,25 @@
     ]
    }
   ],
-  "sig": "iyWUdR_eGLSFhaFQoG-PdVbYZ5AuMvltfemfliBJiJ72zuFxMbyM-80YTiXk3mXBy_0KhuZi5Dcqp2j36D_9Aw"
+  "sig": "g7w8qPBl2yd85Ix21O55J6GrGyl2l1ICz9zttv_C5eMZs1fjhhHtlQlKP8swMi81AaPxSJPjOPsfAHzJFObrAA"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-15T23:39:40",
+  "time": "2026-11-18T19:31:36",
   "docs": [
+   {
+    "id": "ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
+    "title": "Bang thao tac cu va moi 18 11 2026",
+    "desc": "Bang thao tac cu va moi 18 11 2026",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
+    "size": 211845,
+    "date": "2026-11-18T19:31:33",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
     "title": "Giao trinh Hoc vien 11 2026",
@@ -479,12 +505,25 @@
     ]
    }
   ],
-  "sig": "-xbALaDnkJlHSzarB8K-8vw8Ocxy_BwygGYb9pzx3IFoALLv-4rM4NgF9tRExyvu0WGgpg4yE8-org_D5-WiBw"
+  "sig": "URz1R2h8oqvFBWXwgu3EmBPlJydlL9Q_RxpF_cpWRmZvmF8jT3xzmLt6KARk8hbyaUgm3SsF3VrE_ZCpRkFzCw"
  },
  {
   "ed": "API",
-  "time": "2026-11-15T23:39:40",
+  "time": "2026-11-18T19:31:36",
   "docs": [
+   {
+    "id": "ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
+    "title": "Bang thao tac cu va moi 18 11 2026",
+    "desc": "Bang thao tac cu va moi 18 11 2026",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
+    "size": 211845,
+    "date": "2026-11-18T19:31:33",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
     "title": "Giao trinh Hoc vien 11 2026",
@@ -720,6 +759,6 @@
     ]
    }
   ],
-  "sig": "xpCAqYDgW8PxIzAmRQani93nTOHokIySeRMiVLxl1qkYob9fbMkAmXZuGig7HtLbdW5ldLAYwKyNn3AXX-drCw"
+  "sig": "osB3AM3b89cYrzE8AetENSxKtmSfX6j7-MpP6Z1N4YhHkWmjKhMD0HHWQ4MfyS4UYq68zsZ2J83khuV7SxrNCg"
  }
 ]
