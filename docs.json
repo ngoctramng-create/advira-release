@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-18T19:31:36",
+  "time": "2026-11-19T12:00:23",
   "docs": [
+   {
+    "id": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
+    "title": "Huong dan chuyen app Meta sang Chinh thuc",
+    "desc": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
+    "size": 990398,
+    "date": "2026-11-19T12:00:19",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
     "title": "Bang thao tac cu va moi 18 11 2026",
@@ -251,12 +264,25 @@
     ]
    }
   ],
-  "sig": "g7w8qPBl2yd85Ix21O55J6GrGyl2l1ICz9zttv_C5eMZs1fjhhHtlQlKP8swMi81AaPxSJPjOPsfAHzJFObrAA"
+  "sig": "NsaYQOpt7NoGF47FItWbSyqNX8TUeS8_ofJDNRWQi5hNEN-2GkJ9utgeMTMhFctKw1BksrNz55BPb5tzMJsWDA"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-18T19:31:36",
+  "time": "2026-11-19T12:00:23",
   "docs": [
+   {
+    "id": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
+    "title": "Huong dan chuyen app Meta sang Chinh thuc",
+    "desc": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
+    "size": 990398,
+    "date": "2026-11-19T12:00:19",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
     "title": "Bang thao tac cu va moi 18 11 2026",
@@ -505,12 +531,25 @@
     ]
    }
   ],
-  "sig": "URz1R2h8oqvFBWXwgu3EmBPlJydlL9Q_RxpF_cpWRmZvmF8jT3xzmLt6KARk8hbyaUgm3SsF3VrE_ZCpRkFzCw"
+  "sig": "aWNMZ_oi3lfwvw87ln78XVmM6jb9qgAwQBlU2rNTS3OQCAVpkuQa0ml2Z9DpqUxS3WYkVcS0KiMIMIz_-q45Cg"
  },
  {
   "ed": "API",
-  "time": "2026-11-18T19:31:36",
+  "time": "2026-11-19T12:00:23",
   "docs": [
+   {
+    "id": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
+    "title": "Huong dan chuyen app Meta sang Chinh thuc",
+    "desc": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
+    "size": 990398,
+    "date": "2026-11-19T12:00:19",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
     "title": "Bang thao tac cu va moi 18 11 2026",
@@ -759,6 +798,6 @@
     ]
    }
   ],
-  "sig": "osB3AM3b89cYrzE8AetENSxKtmSfX6j7-MpP6Z1N4YhHkWmjKhMD0HHWQ4MfyS4UYq68zsZ2J83khuV7SxrNCg"
+  "sig": "Inzlp0lS2cUNZl62cuEqwHf4ml5U8JWHr_Axgqv3WKJUUyaJ9HmUO-XLgkQsPK4r5vRbvGeIxUMaibZPrOI3Ag"
  }
 ]
