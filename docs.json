@@ -1,8 +1,21 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-19T12:00:23",
+  "time": "2026-11-20T23:01:38",
   "docs": [
+   {
+    "id": "ADVIRA-Huong-dan-day-du-20-11-2026.pdf",
+    "title": "Huong dan day du 20 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-20-11-2026.pdf",
+    "size": 330209,
+    "date": "2026-11-20T23:01:34",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
     "title": "Huong dan chuyen app Meta sang Chinh thuc",
@@ -264,12 +277,25 @@
     ]
    }
   ],
-  "sig": "NsaYQOpt7NoGF47FItWbSyqNX8TUeS8_ofJDNRWQi5hNEN-2GkJ9utgeMTMhFctKw1BksrNz55BPb5tzMJsWDA"
+  "sig": "yxf93gPVm-BY8t5gN8FSsYEfscr2G0gtd9LI3JP17PHDQoVdDcIahnIJtXTwcBAZo9n7pXLDIj2zDrckKndcCA"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-19T12:00:23",
+  "time": "2026-11-20T23:01:38",
   "docs": [
+   {
+    "id": "ADVIRA-Huong-dan-day-du-20-11-2026.pdf",
+    "title": "Huong dan day du 20 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-20-11-2026.pdf",
+    "size": 330209,
+    "date": "2026-11-20T23:01:34",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
     "title": "Huong dan chuyen app Meta sang Chinh thuc",
@@ -531,12 +557,25 @@
     ]
    }
   ],
-  "sig": "aWNMZ_oi3lfwvw87ln78XVmM6jb9qgAwQBlU2rNTS3OQCAVpkuQa0ml2Z9DpqUxS3WYkVcS0KiMIMIz_-q45Cg"
+  "sig": "ZNug0j9yrXJQ0vpc8iN1ikwGWIKBlv_PFNCBG4R1ZXgR1tgnP_wivk8kJl9vH8VJ--9hBEupTP29XIKfY4PgAA"
  },
  {
   "ed": "API",
-  "time": "2026-11-19T12:00:23",
+  "time": "2026-11-20T23:01:38",
   "docs": [
+   {
+    "id": "ADVIRA-Huong-dan-day-du-20-11-2026.pdf",
+    "title": "Huong dan day du 20 11 2026",
+    "desc": "",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-20-11-2026.pdf",
+    "size": 330209,
+    "date": "2026-11-20T23:01:34",
+    "eds": [
+     "PRO",
+     "MINI",
+     "API"
+    ]
+   },
    {
     "id": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
     "title": "Huong dan chuyen app Meta sang Chinh thuc",
@@ -798,6 +837,6 @@
     ]
    }
   ],
-  "sig": "Inzlp0lS2cUNZl62cuEqwHf4ml5U8JWHr_Axgqv3WKJUUyaJ9HmUO-XLgkQsPK4r5vRbvGeIxUMaibZPrOI3Ag"
+  "sig": "drE0dy7Agkh2rjTfdA2vd1v02vZrmaGlHo7874X7GI_zQ3ZUqb9WKG_QtqpgzA_ogcsyZOvMNqveJq4FAdVnCg"
  }
 ]
