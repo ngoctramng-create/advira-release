@@ -1,842 +1,311 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-20T23:01:38",
+  "time": "2026-11-20T23:44:47",
   "docs": [
    {
+    "id": "ADVIRA-Phu-Page-so-luong-lon-20-11-2026.pdf",
+    "title": "Phủ Page số lượng lớn",
+    "desc": "Mô hình Gốc và Vệ tinh, cách vận hành nhiều Page: chia cụm, giãn giờ, rải lịch, đo và nhân bản.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Phu-Page-so-luong-lon-20-11-2026.pdf",
+    "size": 150840,
+    "date": "2026-11-20T23:44:44",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
+   {
+    "id": "ADVIRA-Ke-hoach-va-Phu-Page-20-11-2026.pdf",
+    "title": "Kế hoạch và Phủ Page",
+    "desc": "Lập kế hoạch đa kênh, import kênh, gán ID Page từng cái và hàng loạt, xây Page, lên lịch.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ke-hoach-va-Phu-Page-20-11-2026.pdf",
+    "size": 143720,
+    "date": "2026-11-20T23:44:41",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
+   {
+    "id": "ADVIRA-Ket-noi-store-Page-kenh-20-11-2026.pdf",
+    "title": "Kết nối store, Page và các kênh",
+    "desc": "Cài đặt, kích hoạt, nối tài khoản AI, máy dựng video, store Shopify, Page, bot Telegram.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ket-noi-store-Page-kenh-20-11-2026.pdf",
+    "size": 153163,
+    "date": "2026-11-20T23:44:38",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
+   {
     "id": "ADVIRA-Huong-dan-day-du-20-11-2026.pdf",
-    "title": "Huong dan day du 20 11 2026",
-    "desc": "",
+    "title": "Hướng dẫn sử dụng đầy đủ (20/11/2026)",
+    "desc": "Tài liệu chính. Viết theo giao diện 9 nhóm, dùng chung PRO và Mini: cài đặt, kích hoạt, cài đặt ban đầu, từng nhóm menu, bot Telegram, lưu ý làm video và đăng bài, lỗi thường gặp.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-20-11-2026.pdf",
     "size": 330209,
     "date": "2026-11-20T23:01:34",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    },
    {
     "id": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
-    "title": "Huong dan chuyen app Meta sang Chinh thuc",
-    "desc": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
+    "title": "Chuyển app Meta sang chế độ Chính thức",
+    "desc": "Bài đăng thành công mà người khác không thấy: cách chuyển app Meta từ chế độ phát triển sang chính thức.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
     "size": 990398,
     "date": "2026-11-19T12:00:19",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
-    "title": "Bang thao tac cu va moi 18 11 2026",
-    "desc": "Bang thao tac cu va moi 18 11 2026",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
-    "size": 211845,
-    "date": "2026-11-18T19:31:33",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    },
    {
     "id": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
-    "title": "Giao trinh Hoc vien 11 2026",
-    "desc": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "title": "Giáo trình Học viện ADVIRA",
+    "desc": "Lộ trình học từng bước cho người mới.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
     "size": 1966107,
     "date": "2026-11-15T23:39:36",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
-    "title": "Cam nang ban cap nhat 15 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
-    "size": 579773,
-    "date": "2026-11-15T10:16:45",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-web.pdf",
-    "title": "PRO Huong dan web",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-web.pdf",
-    "size": 602679,
-    "date": "2026-11-13T15:55:15",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-ket-noi.pdf",
-    "title": "PRO Huong dan ket noi",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-ket-noi.pdf",
-    "size": 561537,
-    "date": "2026-11-13T09:16:50",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-API-Huong-dan-cai-dat.pdf",
-    "title": "API Huong dan cai dat",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-API-Huong-dan-cai-dat.pdf",
-    "size": 882436,
-    "date": "2026-11-13T09:15:53",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-Ke-hoach-Phu-Page.pdf",
-    "title": "PRO Huong dan Ke hoach Phu Page",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-Ke-hoach-Phu-Page.pdf",
-    "size": 873941,
-    "date": "2026-11-13T09:15:33",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Bang-lenh-bot.pdf",
-    "title": "PRO Bang lenh bot",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Bang-lenh-bot.pdf",
-    "size": 405005,
-    "date": "2026-11-13T09:01:29",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
-    "title": "Cam nang ban cap nhat 13 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
-    "size": 1292293,
-    "date": "2026-11-13T08:58:35",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
-    "title": "PRO Bo cam nang van hanh 4 trong 1 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
-    "size": 2621402,
-    "date": "2026-11-13T07:05:09",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-su-dung.pdf",
-    "title": "PRO Huong dan su dung",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-su-dung.pdf",
-    "size": 664069,
-    "date": "2026-11-12T23:47:05",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
-    "title": "Cong xuong POD Set Page hang loat 12 11 2026",
-    "desc": "BIG UDATE: ADVIRA-PRO-2026.1112.2305 ADVIRA-API-2026.1112.2325 ADVIRA-MINI-2026.1112.2324",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
-    "size": 1011397,
-    "date": "2026-11-12T23:44:45",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    },
    {
     "id": "ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
-    "title": "Cach lay API key token 11 2026",
-    "desc": "Cách lấy API, tài khoản sử dụng trong hệ thống ADVIRA",
+    "title": "Cách lấy API key và token",
+    "desc": "Cách lấy key của các nhà AI và token Facebook dùng trong ADVIRA.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
     "size": 863149,
     "date": "2026-11-12T15:09:31",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Phu-Page-so-luong-lon.pdf",
-    "title": "Phu Page so luong lon",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Phu-Page-so-luong-lon.pdf",
-    "size": 848363,
-    "date": "2026-11-12T09:48:17",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
-    "title": "PRO Huong dan chay 100 API",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
-    "size": 773463,
-    "date": "2026-11-12T09:47:49",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    },
    {
     "id": "ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
-    "title": "Ebook Con duong kiem tien",
-    "desc": "",
+    "title": "Ebook Con đường kiếm tiền",
+    "desc": "Tư duy và mô hình kiếm tiền với ADVIRA.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
     "size": 1202843,
     "date": "2026-11-12T09:47:20",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Bang-lenh-Bot-11-2026.pdf",
-    "title": "Bang lenh Bot 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-lenh-Bot-11-2026.pdf",
-    "size": 754732,
-    "date": "2026-11-12T08:29:02",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
-    "title": "Huong dan day du giao dien moi 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
-    "size": 1734441,
-    "date": "2026-11-12T08:28:47",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Huong-dan-ban-cap-nhat-11-2026.pdf",
-    "title": "Huong dan ban cap nhat 11/11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-ban-cap-nhat-11-2026.pdf",
-    "size": 1278525,
-    "date": "2026-11-12T07:22:45",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    }
   ],
-  "sig": "yxf93gPVm-BY8t5gN8FSsYEfscr2G0gtd9LI3JP17PHDQoVdDcIahnIJtXTwcBAZo9n7pXLDIj2zDrckKndcCA"
+  "sig": "IR6-GUQCC4VmFOsm3y38FzFITz0N0ww01as2PUjkdsztWVY3-QFv_FkWeisEIYQh58qNHG7U3IcTepyM2rf8Bg"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-20T23:01:38",
+  "time": "2026-11-20T23:44:47",
   "docs": [
    {
+    "id": "ADVIRA-Phu-Page-so-luong-lon-20-11-2026.pdf",
+    "title": "Phủ Page số lượng lớn",
+    "desc": "Mô hình Gốc và Vệ tinh, cách vận hành nhiều Page: chia cụm, giãn giờ, rải lịch, đo và nhân bản.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Phu-Page-so-luong-lon-20-11-2026.pdf",
+    "size": 150840,
+    "date": "2026-11-20T23:44:44",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
+   {
+    "id": "ADVIRA-Ke-hoach-va-Phu-Page-20-11-2026.pdf",
+    "title": "Kế hoạch và Phủ Page",
+    "desc": "Lập kế hoạch đa kênh, import kênh, gán ID Page từng cái và hàng loạt, xây Page, lên lịch.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ke-hoach-va-Phu-Page-20-11-2026.pdf",
+    "size": 143720,
+    "date": "2026-11-20T23:44:41",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
+   {
+    "id": "ADVIRA-Ket-noi-store-Page-kenh-20-11-2026.pdf",
+    "title": "Kết nối store, Page và các kênh",
+    "desc": "Cài đặt, kích hoạt, nối tài khoản AI, máy dựng video, store Shopify, Page, bot Telegram.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ket-noi-store-Page-kenh-20-11-2026.pdf",
+    "size": 153163,
+    "date": "2026-11-20T23:44:38",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
+   {
     "id": "ADVIRA-Huong-dan-day-du-20-11-2026.pdf",
-    "title": "Huong dan day du 20 11 2026",
-    "desc": "",
+    "title": "Hướng dẫn sử dụng đầy đủ (20/11/2026)",
+    "desc": "Tài liệu chính. Viết theo giao diện 9 nhóm, dùng chung PRO và Mini: cài đặt, kích hoạt, cài đặt ban đầu, từng nhóm menu, bot Telegram, lưu ý làm video và đăng bài, lỗi thường gặp.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-20-11-2026.pdf",
     "size": 330209,
     "date": "2026-11-20T23:01:34",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    },
    {
     "id": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
-    "title": "Huong dan chuyen app Meta sang Chinh thuc",
-    "desc": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
+    "title": "Chuyển app Meta sang chế độ Chính thức",
+    "desc": "Bài đăng thành công mà người khác không thấy: cách chuyển app Meta từ chế độ phát triển sang chính thức.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
     "size": 990398,
     "date": "2026-11-19T12:00:19",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
-    "title": "Bang thao tac cu va moi 18 11 2026",
-    "desc": "Bang thao tac cu va moi 18 11 2026",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
-    "size": 211845,
-    "date": "2026-11-18T19:31:33",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    },
    {
     "id": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
-    "title": "Giao trinh Hoc vien 11 2026",
-    "desc": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "title": "Giáo trình Học viện ADVIRA",
+    "desc": "Lộ trình học từng bước cho người mới.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
     "size": 1966107,
     "date": "2026-11-15T23:39:36",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
-    "title": "Cam nang ban cap nhat 15 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
-    "size": 579773,
-    "date": "2026-11-15T10:16:45",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-web.pdf",
-    "title": "PRO Huong dan web",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-web.pdf",
-    "size": 602679,
-    "date": "2026-11-13T15:55:15",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-ket-noi.pdf",
-    "title": "PRO Huong dan ket noi",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-ket-noi.pdf",
-    "size": 561537,
-    "date": "2026-11-13T09:16:50",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-API-Huong-dan-cai-dat.pdf",
-    "title": "API Huong dan cai dat",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-API-Huong-dan-cai-dat.pdf",
-    "size": 882436,
-    "date": "2026-11-13T09:15:53",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-Ke-hoach-Phu-Page.pdf",
-    "title": "PRO Huong dan Ke hoach Phu Page",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-Ke-hoach-Phu-Page.pdf",
-    "size": 873941,
-    "date": "2026-11-13T09:15:33",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Bang-lenh-bot.pdf",
-    "title": "PRO Bang lenh bot",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Bang-lenh-bot.pdf",
-    "size": 405005,
-    "date": "2026-11-13T09:01:29",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
-    "title": "Cam nang ban cap nhat 13 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
-    "size": 1292293,
-    "date": "2026-11-13T08:58:35",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
-    "title": "PRO Bo cam nang van hanh 4 trong 1 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
-    "size": 2621402,
-    "date": "2026-11-13T07:05:09",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-su-dung.pdf",
-    "title": "PRO Huong dan su dung",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-su-dung.pdf",
-    "size": 664069,
-    "date": "2026-11-12T23:47:05",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
-    "title": "Cong xuong POD Set Page hang loat 12 11 2026",
-    "desc": "BIG UDATE: ADVIRA-PRO-2026.1112.2305 ADVIRA-API-2026.1112.2325 ADVIRA-MINI-2026.1112.2324",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
-    "size": 1011397,
-    "date": "2026-11-12T23:44:45",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    },
    {
     "id": "ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
-    "title": "Cach lay API key token 11 2026",
-    "desc": "Cách lấy API, tài khoản sử dụng trong hệ thống ADVIRA",
+    "title": "Cách lấy API key và token",
+    "desc": "Cách lấy key của các nhà AI và token Facebook dùng trong ADVIRA.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
     "size": 863149,
     "date": "2026-11-12T15:09:31",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Phu-Page-so-luong-lon.pdf",
-    "title": "Phu Page so luong lon",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Phu-Page-so-luong-lon.pdf",
-    "size": 848363,
-    "date": "2026-11-12T09:48:17",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
-    "title": "PRO Huong dan chay 100 API",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
-    "size": 773463,
-    "date": "2026-11-12T09:47:49",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    },
    {
     "id": "ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
-    "title": "Ebook Con duong kiem tien",
-    "desc": "",
+    "title": "Ebook Con đường kiếm tiền",
+    "desc": "Tư duy và mô hình kiếm tiền với ADVIRA.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
     "size": 1202843,
     "date": "2026-11-12T09:47:20",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Bang-lenh-Bot-11-2026.pdf",
-    "title": "Bang lenh Bot 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-lenh-Bot-11-2026.pdf",
-    "size": 754732,
-    "date": "2026-11-12T08:29:02",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
-    "title": "Huong dan day du giao dien moi 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
-    "size": 1734441,
-    "date": "2026-11-12T08:28:47",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Huong-dan-ban-cap-nhat-11-2026.pdf",
-    "title": "Huong dan ban cap nhat 11/11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-ban-cap-nhat-11-2026.pdf",
-    "size": 1278525,
-    "date": "2026-11-12T07:22:45",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    }
   ],
-  "sig": "ZNug0j9yrXJQ0vpc8iN1ikwGWIKBlv_PFNCBG4R1ZXgR1tgnP_wivk8kJl9vH8VJ--9hBEupTP29XIKfY4PgAA"
+  "sig": "euH--FrzP60rp3JD0z4kYdrTgTWqveO8XLCE6QOBot2lDw6bo7l8SV7Yv3Y6tJxTXxHfqnlyrvFTxWDIsN5sDg"
  },
  {
   "ed": "API",
-  "time": "2026-11-20T23:01:38",
+  "time": "2026-11-20T23:44:47",
   "docs": [
    {
+    "id": "ADVIRA-Phu-Page-so-luong-lon-20-11-2026.pdf",
+    "title": "Phủ Page số lượng lớn",
+    "desc": "Mô hình Gốc và Vệ tinh, cách vận hành nhiều Page: chia cụm, giãn giờ, rải lịch, đo và nhân bản.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Phu-Page-so-luong-lon-20-11-2026.pdf",
+    "size": 150840,
+    "date": "2026-11-20T23:44:44",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
+   {
+    "id": "ADVIRA-Ke-hoach-va-Phu-Page-20-11-2026.pdf",
+    "title": "Kế hoạch và Phủ Page",
+    "desc": "Lập kế hoạch đa kênh, import kênh, gán ID Page từng cái và hàng loạt, xây Page, lên lịch.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ke-hoach-va-Phu-Page-20-11-2026.pdf",
+    "size": 143720,
+    "date": "2026-11-20T23:44:41",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
+   {
+    "id": "ADVIRA-Ket-noi-store-Page-kenh-20-11-2026.pdf",
+    "title": "Kết nối store, Page và các kênh",
+    "desc": "Cài đặt, kích hoạt, nối tài khoản AI, máy dựng video, store Shopify, Page, bot Telegram.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ket-noi-store-Page-kenh-20-11-2026.pdf",
+    "size": 153163,
+    "date": "2026-11-20T23:44:38",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
+   {
     "id": "ADVIRA-Huong-dan-day-du-20-11-2026.pdf",
-    "title": "Huong dan day du 20 11 2026",
-    "desc": "",
+    "title": "Hướng dẫn sử dụng đầy đủ (20/11/2026)",
+    "desc": "Tài liệu chính. Viết theo giao diện 9 nhóm, dùng chung PRO và Mini: cài đặt, kích hoạt, cài đặt ban đầu, từng nhóm menu, bot Telegram, lưu ý làm video và đăng bài, lỗi thường gặp.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-20-11-2026.pdf",
     "size": 330209,
     "date": "2026-11-20T23:01:34",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    },
    {
     "id": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
-    "title": "Huong dan chuyen app Meta sang Chinh thuc",
-    "desc": "ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
+    "title": "Chuyển app Meta sang chế độ Chính thức",
+    "desc": "Bài đăng thành công mà người khác không thấy: cách chuyển app Meta từ chế độ phát triển sang chính thức.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-chuyen-app-Meta-sang-Chinh-thuc.pdf",
     "size": 990398,
     "date": "2026-11-19T12:00:19",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
-    "title": "Bang thao tac cu va moi 18 11 2026",
-    "desc": "Bang thao tac cu va moi 18 11 2026",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-thao-tac-cu-va-moi-18-11-2026.pdf",
-    "size": 211845,
-    "date": "2026-11-18T19:31:33",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    },
    {
     "id": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
-    "title": "Giao trinh Hoc vien 11 2026",
-    "desc": "ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
+    "title": "Giáo trình Học viện ADVIRA",
+    "desc": "Lộ trình học từng bước cho người mới.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Giao-trinh-Hoc-vien-11-2026.pdf",
     "size": 1966107,
     "date": "2026-11-15T23:39:36",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
-    "title": "Cam nang ban cap nhat 15 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
-    "size": 579773,
-    "date": "2026-11-15T10:16:45",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-web.pdf",
-    "title": "PRO Huong dan web",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-web.pdf",
-    "size": 602679,
-    "date": "2026-11-13T15:55:15",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-ket-noi.pdf",
-    "title": "PRO Huong dan ket noi",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-ket-noi.pdf",
-    "size": 561537,
-    "date": "2026-11-13T09:16:50",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-API-Huong-dan-cai-dat.pdf",
-    "title": "API Huong dan cai dat",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-API-Huong-dan-cai-dat.pdf",
-    "size": 882436,
-    "date": "2026-11-13T09:15:53",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-Ke-hoach-Phu-Page.pdf",
-    "title": "PRO Huong dan Ke hoach Phu Page",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-Ke-hoach-Phu-Page.pdf",
-    "size": 873941,
-    "date": "2026-11-13T09:15:33",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Bang-lenh-bot.pdf",
-    "title": "PRO Bang lenh bot",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Bang-lenh-bot.pdf",
-    "size": 405005,
-    "date": "2026-11-13T09:01:29",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
-    "title": "Cam nang ban cap nhat 13 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-13-11-2026.pdf",
-    "size": 1292293,
-    "date": "2026-11-13T08:58:35",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
-    "title": "PRO Bo cam nang van hanh 4 trong 1 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Bo-cam-nang-van-hanh-4-trong-1-11-2026.pdf",
-    "size": 2621402,
-    "date": "2026-11-13T07:05:09",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-su-dung.pdf",
-    "title": "PRO Huong dan su dung",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-su-dung.pdf",
-    "size": 664069,
-    "date": "2026-11-12T23:47:05",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
-    "title": "Cong xuong POD Set Page hang loat 12 11 2026",
-    "desc": "BIG UDATE: ADVIRA-PRO-2026.1112.2305 ADVIRA-API-2026.1112.2325 ADVIRA-MINI-2026.1112.2324",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cong-xuong-POD-Set-Page-hang-loat-12-11-2026.pdf",
-    "size": 1011397,
-    "date": "2026-11-12T23:44:45",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    },
    {
     "id": "ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
-    "title": "Cach lay API key token 11 2026",
-    "desc": "Cách lấy API, tài khoản sử dụng trong hệ thống ADVIRA",
+    "title": "Cách lấy API key và token",
+    "desc": "Cách lấy key của các nhà AI và token Facebook dùng trong ADVIRA.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cach-lay-API-key-token-11-2026.pdf",
     "size": 863149,
     "date": "2026-11-12T15:09:31",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Phu-Page-so-luong-lon.pdf",
-    "title": "Phu Page so luong lon",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Phu-Page-so-luong-lon.pdf",
-    "size": 848363,
-    "date": "2026-11-12T09:48:17",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
-    "title": "PRO Huong dan chay 100 API",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-PRO-Huong-dan-chay-100-API.pdf",
-    "size": 773463,
-    "date": "2026-11-12T09:47:49",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    },
    {
     "id": "ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
-    "title": "Ebook Con duong kiem tien",
-    "desc": "",
+    "title": "Ebook Con đường kiếm tiền",
+    "desc": "Tư duy và mô hình kiếm tiền với ADVIRA.",
     "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Ebook-Con-duong-kiem-tien.pdf",
     "size": 1202843,
     "date": "2026-11-12T09:47:20",
     "eds": [
      "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Bang-lenh-Bot-11-2026.pdf",
-    "title": "Bang lenh Bot 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Bang-lenh-Bot-11-2026.pdf",
-    "size": 754732,
-    "date": "2026-11-12T08:29:02",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
-    "title": "Huong dan day du giao dien moi 11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-day-du-giao-dien-moi-11-2026.pdf",
-    "size": 1734441,
-    "date": "2026-11-12T08:28:47",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
-    ]
-   },
-   {
-    "id": "ADVIRA-Huong-dan-ban-cap-nhat-11-2026.pdf",
-    "title": "Huong dan ban cap nhat 11/11 2026",
-    "desc": "",
-    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-ban-cap-nhat-11-2026.pdf",
-    "size": 1278525,
-    "date": "2026-11-12T07:22:45",
-    "eds": [
-     "PRO",
-     "MINI",
-     "API"
+     "MINI"
     ]
    }
   ],
-  "sig": "drE0dy7Agkh2rjTfdA2vd1v02vZrmaGlHo7874X7GI_zQ3ZUqb9WKG_QtqpgzA_ogcsyZOvMNqveJq4FAdVnCg"
+  "sig": "T_8tkrchJwJnJ2Wib3ltC6oHckxG4PdahhiJhWtYq3IZhosqj0SYIJMmiARad7CGkx65Jj-Gx-EFDgmN7NxuAQ"
  }
 ]
