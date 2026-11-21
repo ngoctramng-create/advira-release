@@ -1,5 +1,13 @@
 [
   {
+    "id": "20261121194135",
+    "time": "2026-11-21T19:41:35",
+    "title": "📚 Tài liệu mới: Clone và Scale video: nhân bản video đang thắng (21/11/2026)",
+    "body": "Chọn kiểu clone trên web và bot, Nhân bản video WIN (chỉ đổi người và bối cảnh), ô Kiểu scale mới, mẹo và lỗi thường gặp.\nBản mới đã phát hành: PRO 2026.1121.1854, Mini 2026.1121.1907. Mở app bấm Cập nhật để dùng các tính năng trong tài liệu này.",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Clone-va-Scale-video-21-11-2026.pdf",
+    "sig": "d6foxAJENMeleXLs2SMf8Mc6XUk6bw6LEqKoEAOEuJaoKtn18-qUEwl8pKVr9NNsDABmKxpBVXl10NDDw6pYBw"
+  },
+  {
     "id": "20261120230146",
     "time": "2026-11-20T23:01:46",
     "title": "📚 Tài liệu mới: Huong dan day du 20 11 2026",
@@ -52,6 +60,15 @@
     "body": "Cam nang ban cap nhat 15 11 2026",
     "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
     "sig": "Fw_94aZ25sq9-ZHYS1HSDQuahkp_CbP1uZCXIDWY2LEoZDCKxpd_3lLc9Tfof3Nnfg0iq3R5IBRR8v29rtBpCQ"
+  },
+  {
+    "id": "20261121194135",
+    "time": "2026-11-21T19:41:35",
+    "title": "📚 Tài liệu mới: Clone và Scale video: nhân bản video đang thắng (21/11/2026)",
+    "body": "Chọn kiểu clone trên web và bot, Nhân bản video WIN (chỉ đổi người và bối cảnh), ô Kiểu scale mới, mẹo và lỗi thường gặp.\nBản mới đã phát hành: PRO 2026.1121.1854, Mini 2026.1121.1907. Mở app bấm Cập nhật để dùng các tính năng trong tài liệu này.",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Clone-va-Scale-video-21-11-2026.pdf",
+    "sig": "EdWygK5TdS2GVEt9v0U018vZKk34JoyIQh0YROT5ErDw0fgb6AshmtE7pReIdH5Krx7n9uTGqePtbDyn8kvVBA",
+    "ed": "Mini"
   },
   {
     "id": "20261120230146",
@@ -112,6 +129,15 @@
     "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Cam-nang-ban-cap-nhat-15-11-2026.pdf",
     "sig": "slURWAcca_vilOCq5o-j6bX4muJoFxUg8Eq40CWmvKW5bGKM6jqu0NuRqrW2-2EzRRe3e_vOKHo16FJXQGQQAw",
     "ed": "Mini"
+  },
+  {
+    "id": "20261121194135",
+    "time": "2026-11-21T19:41:35",
+    "title": "📚 Tài liệu mới: Clone và Scale video: nhân bản video đang thắng (21/11/2026)",
+    "body": "Chọn kiểu clone trên web và bot, Nhân bản video WIN (chỉ đổi người và bối cảnh), ô Kiểu scale mới, mẹo và lỗi thường gặp.\nBản mới đã phát hành: PRO 2026.1121.1854, Mini 2026.1121.1907. Mở app bấm Cập nhật để dùng các tính năng trong tài liệu này.",
+    "link": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Clone-va-Scale-video-21-11-2026.pdf",
+    "sig": "M68XTu-VHtpSeGMTH0ftEWtoSRt9wGCwrhk3ZHJOv9iqh9gcINoEwKeeP3NrZ22ezmllioVVzSvXTWCmWmSYAw",
+    "ed": "API"
   },
   {
     "id": "20261120230146",
