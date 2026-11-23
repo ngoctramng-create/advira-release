@@ -1,7 +1,7 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-23T13:06:07",
+  "time": "2026-11-23T13:06:28",
   "docs": [
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-23-11-2026.pdf",
@@ -148,11 +148,11 @@
     ]
    }
   ],
-  "sig": "4V_2wjE7LoBYdvoo-Ot9D4mEyDuG4rXKzJk7N9rMgfUEp0lRH3M2d__AgG65ovhTquvAVDqgYJFPB57ttCa4BA"
+  "sig": "yYL9l5Owp2KkJYUkEWm07PKw-XhRAiYxuykG_a9OKR1ATbsAdbS6TwwHQjyM55kchfLLoh1cl7LU7UfjQIVvCA"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-23T13:06:07",
+  "time": "2026-11-23T13:06:28",
   "docs": [
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-23-11-2026.pdf",
@@ -299,11 +299,11 @@
     ]
    }
   ],
-  "sig": "YZrA4uMmUD5UOrbfObcdk4u1--y6HZEhcr-TcVWMN9xptwelQsiv74VqN1WCrkrCrCMC2HWHaJeWBU_LPtNbCw"
+  "sig": "L_k0ahG1eoKSUDSLvvyzSsk9fSbgQT2k2H87pknoMioDfAMAL6Y42KGnHi7CExU8RR2AGC94aAoFIzVpU3NQBg"
  },
  {
   "ed": "API",
-  "time": "2026-11-23T13:06:07",
+  "time": "2026-11-23T13:06:28",
   "docs": [
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-23-11-2026.pdf",
@@ -450,6 +450,6 @@
     ]
    }
   ],
-  "sig": "R1KqsKWXYFZleWOdjCbT6al6M_owRLIVEXDXyKFpRG0wrLOApvA_IBalg4qUsl1CRhQEhXaXLH06wg7ZS28ZCQ"
+  "sig": "UdpjGsOoBmiHIUTqF2X-aV1EMK-qX9CiLhy5JATeqodPPQ_hH8fNDhI-6AnGYJcdl9G1NjtoJAUfwhAcVkkzDQ"
  }
 ]
