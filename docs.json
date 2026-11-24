@@ -1,8 +1,20 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-23T17:06:37",
+  "time": "2026-11-25T01:15:29",
   "docs": [
+   {
+    "id": "ADVIRA-Luu-y-ban-cap-nhat-25-11-2026.pdf",
+    "title": "Lưu ý bản cập nhật 25/11/2026: Kiểm tra token Page, AI theo đúng mô hình, Mới xuất hiện nhất, Xây kênh tự chạy tiếp",
+    "desc": "Kiểm tra và xử lý token Page lỗi ở Kênh đăng; Cài đặt AI chạy đúng mô hình theo việc và tự dự phòng; lọc Mới xuất hiện nhất ở mọi trang tìm video; Xây kênh tự chạy tiếp (PRO); Chrome chạy ẩn, Công Xưởng nhanh hơn, Scale nhân bản hiện tiến độ. Kèm lỗi hay gặp.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Luu-y-ban-cap-nhat-25-11-2026.pdf",
+    "size": 100263,
+    "date": "2026-11-25T01:30:00",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-23-11-2026-cuoi-ngay.pdf",
     "title": "Lưu ý bản cập nhật cuối ngày 23/11/2026: Tài chính, Tracking nhà cung cấp, Chăm sóc khách, Scale lưu dự án",
@@ -160,12 +172,24 @@
     ]
    }
   ],
-  "sig": "ERy0Jrbaf0swYQZ1AvX6bHIENdFQJHxKvXJw3r0aQVcuum4r1ghxz4jXUhnTgDWK2l1_k1dLeKKUDJ64mxC7CA"
+  "sig": "4c5j8dFyHn1RV3adTRSzcG6cQUMlzdaWxztvnhZ0_PDbeTosouyMpJSD1P6jb4vxcKz_Gs0NKP-_bmqwIkKHDw"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-23T17:06:37",
+  "time": "2026-11-25T01:15:29",
   "docs": [
+   {
+    "id": "ADVIRA-Luu-y-ban-cap-nhat-25-11-2026.pdf",
+    "title": "Lưu ý bản cập nhật 25/11/2026: Kiểm tra token Page, AI theo đúng mô hình, Mới xuất hiện nhất, Xây kênh tự chạy tiếp",
+    "desc": "Kiểm tra và xử lý token Page lỗi ở Kênh đăng; Cài đặt AI chạy đúng mô hình theo việc và tự dự phòng; lọc Mới xuất hiện nhất ở mọi trang tìm video; Xây kênh tự chạy tiếp (PRO); Chrome chạy ẩn, Công Xưởng nhanh hơn, Scale nhân bản hiện tiến độ. Kèm lỗi hay gặp.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Luu-y-ban-cap-nhat-25-11-2026.pdf",
+    "size": 100263,
+    "date": "2026-11-25T01:30:00",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-23-11-2026-cuoi-ngay.pdf",
     "title": "Lưu ý bản cập nhật cuối ngày 23/11/2026: Tài chính, Tracking nhà cung cấp, Chăm sóc khách, Scale lưu dự án",
@@ -323,12 +347,24 @@
     ]
    }
   ],
-  "sig": "O0-3IwFs7vk_T9t-Fz6eMaaR3iqtOgp_J9LxiBwvXnHZxHBQHQZQnQvraxVM9gg6PS_amBwgHM6f_Xc6UouECA"
+  "sig": "THF9kuUqwxiPXAjHDa2tTXQH7_5gRxXAgvZ9aNdK7eIQpJuf6PJ5I4EzVvcr3_NtDrrQGp_m8iXIuvvcNF7gAw"
  },
  {
   "ed": "API",
-  "time": "2026-11-23T17:06:37",
+  "time": "2026-11-25T01:15:29",
   "docs": [
+   {
+    "id": "ADVIRA-Luu-y-ban-cap-nhat-25-11-2026.pdf",
+    "title": "Lưu ý bản cập nhật 25/11/2026: Kiểm tra token Page, AI theo đúng mô hình, Mới xuất hiện nhất, Xây kênh tự chạy tiếp",
+    "desc": "Kiểm tra và xử lý token Page lỗi ở Kênh đăng; Cài đặt AI chạy đúng mô hình theo việc và tự dự phòng; lọc Mới xuất hiện nhất ở mọi trang tìm video; Xây kênh tự chạy tiếp (PRO); Chrome chạy ẩn, Công Xưởng nhanh hơn, Scale nhân bản hiện tiến độ. Kèm lỗi hay gặp.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Luu-y-ban-cap-nhat-25-11-2026.pdf",
+    "size": 100263,
+    "date": "2026-11-25T01:30:00",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-23-11-2026-cuoi-ngay.pdf",
     "title": "Lưu ý bản cập nhật cuối ngày 23/11/2026: Tài chính, Tracking nhà cung cấp, Chăm sóc khách, Scale lưu dự án",
@@ -486,6 +522,6 @@
     ]
    }
   ],
-  "sig": "Q2k9LhWFs0XPQoFQSxjK8AeXz8Ha-CLaJkBfMY6s4NvHpe731ieJfRKSzEtx3b91OJI_2XGDq9fdn0u3sRhnBw"
+  "sig": "gcpNfgcDhmUJ3HFKQ1m06taxGd1n5AaBSwoGkNHmq2X9W6VuUYCipV_YseFSKkPjIT_V4BkW06Gz6Fs9zzKhCg"
  }
 ]
