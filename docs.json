@@ -1,8 +1,20 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-26T00:44:16",
+  "time": "2026-11-26T11:50:39",
   "docs": [
+   {
+    "id": "ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-trua.pdf",
+    "title": "Lưu ý bản cập nhật 26/11/2026 trưa: Ảnh neo giữ sản phẩm đồng nhất, hết trộn ảnh, an toàn kiểm duyệt",
+    "desc": "Chế độ Ảnh neo: 1 ảnh chuẩn người và sản phẩm, mọi cảnh chỉnh từ ảnh đó; hết trộn ảnh sản phẩm giữa các dự án; Muse báo xung đột thì tool trả lời ngay; tự viết lại lệnh kín đáo khi bị chặn kiểm duyệt; Kênh bán hàng đặt số ảnh 0 không tạo ảnh.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-trua.pdf",
+    "size": 40352,
+    "date": "2026-11-26T12:00:00",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-26-11-2026.pdf",
     "title": "Lưu ý bản cập nhật 26/11/2026: Video đúng thời lượng, thoại liền mạch, Kỹ năng nền, nhiều luồng tự động, Google Flow giao diện mới",
@@ -184,12 +196,24 @@
     ]
    }
   ],
-  "sig": "RAJ8_C4qPCWJOjsHBx0EIE9QVW7RSpex2BdeDWbOXtoj4bXkZztblLqaHVZmebC5xHAfOcfcaYrUN2lq2DQGAg"
+  "sig": "RTlLiCBZC3mGrKUIJP2yD2cvc9HdON0-WiQ6fojWqf9eT8aeU22l1rlAmD-uUf3hNd-wy5DlT_vnn3vHBVZpCw"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-26T00:44:16",
+  "time": "2026-11-26T11:50:39",
   "docs": [
+   {
+    "id": "ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-trua.pdf",
+    "title": "Lưu ý bản cập nhật 26/11/2026 trưa: Ảnh neo giữ sản phẩm đồng nhất, hết trộn ảnh, an toàn kiểm duyệt",
+    "desc": "Chế độ Ảnh neo: 1 ảnh chuẩn người và sản phẩm, mọi cảnh chỉnh từ ảnh đó; hết trộn ảnh sản phẩm giữa các dự án; Muse báo xung đột thì tool trả lời ngay; tự viết lại lệnh kín đáo khi bị chặn kiểm duyệt; Kênh bán hàng đặt số ảnh 0 không tạo ảnh.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-trua.pdf",
+    "size": 40352,
+    "date": "2026-11-26T12:00:00",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-26-11-2026.pdf",
     "title": "Lưu ý bản cập nhật 26/11/2026: Video đúng thời lượng, thoại liền mạch, Kỹ năng nền, nhiều luồng tự động, Google Flow giao diện mới",
@@ -371,12 +395,24 @@
     ]
    }
   ],
-  "sig": "v4vnJ2kIDnx0WbLlWvuknsOnyUAi_kcR1MV1ApMFjNVfgmOULcd6tJyzDgVl7OjnhuwBxlge5EXDrUBCVh-VDQ"
+  "sig": "JEq4klzHL7tanPqQjMztSw4KzzZOW6pRjzuPQ2o0PZvxIeXJWkerVTdzIRLBdrG7glPOf8lPCho2ueGJx60JDQ"
  },
  {
   "ed": "API",
-  "time": "2026-11-26T00:44:16",
+  "time": "2026-11-26T11:50:39",
   "docs": [
+   {
+    "id": "ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-trua.pdf",
+    "title": "Lưu ý bản cập nhật 26/11/2026 trưa: Ảnh neo giữ sản phẩm đồng nhất, hết trộn ảnh, an toàn kiểm duyệt",
+    "desc": "Chế độ Ảnh neo: 1 ảnh chuẩn người và sản phẩm, mọi cảnh chỉnh từ ảnh đó; hết trộn ảnh sản phẩm giữa các dự án; Muse báo xung đột thì tool trả lời ngay; tự viết lại lệnh kín đáo khi bị chặn kiểm duyệt; Kênh bán hàng đặt số ảnh 0 không tạo ảnh.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-trua.pdf",
+    "size": 40352,
+    "date": "2026-11-26T12:00:00",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-26-11-2026.pdf",
     "title": "Lưu ý bản cập nhật 26/11/2026: Video đúng thời lượng, thoại liền mạch, Kỹ năng nền, nhiều luồng tự động, Google Flow giao diện mới",
@@ -558,6 +594,6 @@
     ]
    }
   ],
-  "sig": "8P-YYXak83IoQ41gFERjn3ujy4UJZhSI87CSgOBcOba6tPF-NKQrde-PLWuQlCn7hKnWSWkMqDCSyXSO96mJBA"
+  "sig": "R75KNRO_dNNpZ6ZPOo-rYMhLe__Jdj1UE3HF8s13CWu7apAQpFgV69zkxpwMlEXQgUdrrCwgl50y4Q6T1hizAg"
  }
 ]
