@@ -1,8 +1,20 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-26T11:50:39",
+  "time": "2026-11-26T22:22:29",
   "docs": [
+   {
+    "id": "ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-toi.pdf",
+    "title": "Lưu ý bản cập nhật 26/11/2026 tối: Soát sản phẩm, Flow mọi ngôn ngữ, kiểm tra proxy, bộ cài chọn ổ",
+    "desc": "Soát sản phẩm luôn bật cho video có sản phẩm; Google Flow đính ảnh mọi ngôn ngữ, hết tải nhầm video; không mất lệnh khi tắt app; Gemini không đứng khi chạy ẩn; nút Kiểm tra proxy; bỏ utm trong comment; Khôi phục kênh; bộ cài chọn ổ cài đặt.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-toi.pdf",
+    "size": 55646,
+    "date": "2026-11-26T22:00:00",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-trua.pdf",
     "title": "Lưu ý bản cập nhật 26/11/2026 trưa: Ảnh neo giữ sản phẩm đồng nhất, hết trộn ảnh, an toàn kiểm duyệt",
@@ -196,12 +208,24 @@
     ]
    }
   ],
-  "sig": "RTlLiCBZC3mGrKUIJP2yD2cvc9HdON0-WiQ6fojWqf9eT8aeU22l1rlAmD-uUf3hNd-wy5DlT_vnn3vHBVZpCw"
+  "sig": "IyoyETJVm5_vDC_6DU0qJtoYTXixRoFq6JsnNDOU4ryhpxhGG_ur5cj8e321hJSVvOQQb-xmSbfXrd1C28SlCw"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-26T11:50:39",
+  "time": "2026-11-26T22:22:29",
   "docs": [
+   {
+    "id": "ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-toi.pdf",
+    "title": "Lưu ý bản cập nhật 26/11/2026 tối: Soát sản phẩm, Flow mọi ngôn ngữ, kiểm tra proxy, bộ cài chọn ổ",
+    "desc": "Soát sản phẩm luôn bật cho video có sản phẩm; Google Flow đính ảnh mọi ngôn ngữ, hết tải nhầm video; không mất lệnh khi tắt app; Gemini không đứng khi chạy ẩn; nút Kiểm tra proxy; bỏ utm trong comment; Khôi phục kênh; bộ cài chọn ổ cài đặt.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-toi.pdf",
+    "size": 55646,
+    "date": "2026-11-26T22:00:00",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-trua.pdf",
     "title": "Lưu ý bản cập nhật 26/11/2026 trưa: Ảnh neo giữ sản phẩm đồng nhất, hết trộn ảnh, an toàn kiểm duyệt",
@@ -395,12 +419,24 @@
     ]
    }
   ],
-  "sig": "JEq4klzHL7tanPqQjMztSw4KzzZOW6pRjzuPQ2o0PZvxIeXJWkerVTdzIRLBdrG7glPOf8lPCho2ueGJx60JDQ"
+  "sig": "S4ASjlQZJjw4_TfZJ1L99oc3wtKgD3YQhCNTmZAXqSANgNywfGv9L9AgG71uM7GQzS7oo2i7zWU7XwPrOiFqCQ"
  },
  {
   "ed": "API",
-  "time": "2026-11-26T11:50:39",
+  "time": "2026-11-26T22:22:29",
   "docs": [
+   {
+    "id": "ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-toi.pdf",
+    "title": "Lưu ý bản cập nhật 26/11/2026 tối: Soát sản phẩm, Flow mọi ngôn ngữ, kiểm tra proxy, bộ cài chọn ổ",
+    "desc": "Soát sản phẩm luôn bật cho video có sản phẩm; Google Flow đính ảnh mọi ngôn ngữ, hết tải nhầm video; không mất lệnh khi tắt app; Gemini không đứng khi chạy ẩn; nút Kiểm tra proxy; bỏ utm trong comment; Khôi phục kênh; bộ cài chọn ổ cài đặt.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-toi.pdf",
+    "size": 55646,
+    "date": "2026-11-26T22:00:00",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-26-11-2026-trua.pdf",
     "title": "Lưu ý bản cập nhật 26/11/2026 trưa: Ảnh neo giữ sản phẩm đồng nhất, hết trộn ảnh, an toàn kiểm duyệt",
@@ -594,6 +630,6 @@
     ]
    }
   ],
-  "sig": "R75KNRO_dNNpZ6ZPOo-rYMhLe__Jdj1UE3HF8s13CWu7apAQpFgV69zkxpwMlEXQgUdrrCwgl50y4Q6T1hizAg"
+  "sig": "YMuLMt1aQJHeO5XD2q2hXNQ-X-dAC7xHyFMLcrr9mGhL0cTV1OZghCm8Vpnc2hOK7w4h6GMFw0NPc1VwztSuAA"
  }
 ]
