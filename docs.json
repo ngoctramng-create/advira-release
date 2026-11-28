@@ -1,8 +1,20 @@
 [
  {
   "ed": "PRO",
-  "time": "2026-11-27T15:44:32",
+  "time": "2026-11-28T18:21:49",
   "docs": [
+   {
+    "id": "ADVIRA-Huong-dan-luong-moi-28-11-2026.pdf",
+    "title": "Hướng dẫn luồng mới 28/11/2026: Xây kênh, Clone video, Soát sản phẩm, Check-in Reels",
+    "desc": "Xây kênh làm đúng thứ tự: khoá nhân vật, Tải ảnh SP, Kiểm trước khi sản xuất; Clone video: bảng cú máy, số lượt dựng dự kiến, tách từng cú máy; Soát sản phẩm và cách đỡ tốn lượt; Check-in Reels có sẵn 23 thành phố Mỹ hoặc nhập ID.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-luong-moi-28-11-2026.pdf",
+    "size": 88844,
+    "date": "2026-11-28T18:30:00",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-27-11-2026.pdf",
     "title": "Lưu ý bản cập nhật 27/11/2026: clone video sát gốc, đỡ tốn lượt dựng, Google Flow, Muse",
@@ -220,12 +232,24 @@
     ]
    }
   ],
-  "sig": "quUzhw7-1a0KQBlp6Ny66HZUm11-Ql8NGmZhVmQFk-Ib5v_rSM6r35T3XPPHcEe7_PY-KoXbNuHVTW2z5MqPBQ"
+  "sig": "fT_b1L6t6w_9w26EmgXSAqJV2RWRmJ3-G--3nKvrfbiq-uqdTc1nfW_Wf-xfTF1x3eYREjAXbR1awSM2BM9kBQ"
  },
  {
   "ed": "Mini",
-  "time": "2026-11-27T15:44:32",
+  "time": "2026-11-28T18:21:49",
   "docs": [
+   {
+    "id": "ADVIRA-Huong-dan-luong-moi-28-11-2026.pdf",
+    "title": "Hướng dẫn luồng mới 28/11/2026: Xây kênh, Clone video, Soát sản phẩm, Check-in Reels",
+    "desc": "Xây kênh làm đúng thứ tự: khoá nhân vật, Tải ảnh SP, Kiểm trước khi sản xuất; Clone video: bảng cú máy, số lượt dựng dự kiến, tách từng cú máy; Soát sản phẩm và cách đỡ tốn lượt; Check-in Reels có sẵn 23 thành phố Mỹ hoặc nhập ID.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-luong-moi-28-11-2026.pdf",
+    "size": 88844,
+    "date": "2026-11-28T18:30:00",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-27-11-2026.pdf",
     "title": "Lưu ý bản cập nhật 27/11/2026: clone video sát gốc, đỡ tốn lượt dựng, Google Flow, Muse",
@@ -443,12 +467,24 @@
     ]
    }
   ],
-  "sig": "KsLC-5KaFs7LFq_JWOyDkgtt9z7zxlPF1tNYYZeQnAaRJUw1xlU8Ewp5YRuZIqGxebF3C9jGg20n_YQSZ3xOBA"
+  "sig": "KTvaaAPvaTsq9IKzxRXNkysGEWR6x4xvUuk6rI_EAZZE3C6VztU921kkALHjWx-UQII0KkA9jL-4igjgnBWvAw"
  },
  {
   "ed": "API",
-  "time": "2026-11-27T15:44:32",
+  "time": "2026-11-28T18:21:49",
   "docs": [
+   {
+    "id": "ADVIRA-Huong-dan-luong-moi-28-11-2026.pdf",
+    "title": "Hướng dẫn luồng mới 28/11/2026: Xây kênh, Clone video, Soát sản phẩm, Check-in Reels",
+    "desc": "Xây kênh làm đúng thứ tự: khoá nhân vật, Tải ảnh SP, Kiểm trước khi sản xuất; Clone video: bảng cú máy, số lượt dựng dự kiến, tách từng cú máy; Soát sản phẩm và cách đỡ tốn lượt; Check-in Reels có sẵn 23 thành phố Mỹ hoặc nhập ID.",
+    "url": "https://raw.githubusercontent.com/ngoctramng-create/advira-release/main/docs/ADVIRA-Huong-dan-luong-moi-28-11-2026.pdf",
+    "size": 88844,
+    "date": "2026-11-28T18:30:00",
+    "eds": [
+     "PRO",
+     "MINI"
+    ]
+   },
    {
     "id": "ADVIRA-Luu-y-ban-cap-nhat-27-11-2026.pdf",
     "title": "Lưu ý bản cập nhật 27/11/2026: clone video sát gốc, đỡ tốn lượt dựng, Google Flow, Muse",
@@ -666,6 +702,6 @@
     ]
    }
   ],
-  "sig": "kVczQ2NTmcsTlLBNo4HRvMD93kAY9Bz3subw2_LPclR661kTf76kLuUU_XY8y88dG6C8ABwyc09xaJKNGzlvCw"
+  "sig": "uZdG5D6otNB8jeoCORlVB9rBZz0YTfxwMFPjjZaeX9CHh2fTeQUCvAXSizCWcfCTQwVnwW4os9KSAmsHqa_HBg"
  }
 ]
